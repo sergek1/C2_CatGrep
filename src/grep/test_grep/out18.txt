@@ -1,0 +1,2 @@
+txt/text_1.txt:6
+txt/text_2.txt:6

@@ -1,0 +1,181 @@
+txt/text_1.txt:2:and their applications. It assumes no prior knowledge of statistics or probability theory, but does require calculus. Most
+txt/text_1.txt:4:then continuing with one or two semesters of statistics. This creates a particular problem for nonstatistics majors from
+txt/text_1.txt:5:various disciplines who want to obtain a sound TEXTBOOK background in mathematical statistics and applications. It is our aim to
+txt/text_1.txt:6:introduce basic concepts of statistics with sound theoretical explanations. Because statistics is basically an interdisciplinary
+txt/text_1.txt:8:We present examples of solving statistical problems using Minitab, SPSS, and SAS.
+txt/text_1.txt:9:
+txt/text_1.txt:10:Эта фигура должна разворачиваться в КАКОЙ TEXTBOOK зависимости от того, какой символ был введен. Например, TEXTBOOK представленная выше фигура должна быть получена в
+txt/text_1.txt:11:ре­ зультате ввода символа Е. Совет: для обработки строк воспользуйтесь внешним циклом. Три внутренних цикла используйте для работы со
+txt/text_1.txt:13:Если ваша система не использует  кодировку ASCII или КАКОЙ подобную, в которой буквы представлены в строгом чи­ словом порядке, см. примечание в упражнении 3.
+txt/text_1.txt:14:
+txt/text_1.txt:15:
+txt/text_1.txt:16:
+txt/text_1.txt:17:  Σὲ γνωρίζω ἀπὸ τὴν κόψη
+txt/text_1.txt:18:  τοῦ σπαθιοῦ τὴν τρομερή,
+txt/text_1.txt:19:  σὲ γνωρίζω ἀπὸ τὴν ὄψη
+txt/text_1.txt:20:  ποὺ μὲ βία μετράει τὴ γῆ.
+txt/text_1.txt:21:
+txt/text_1.txt:22:  ᾿Απ᾿ τὰ κόκκαλα βγαλμένη
+txt/text_1.txt:23:  τῶν ῾Ελλήνων τὰ ἱερά
+txt/text_1.txt:24:  καὶ σὰν πρῶτα ἀνδρειωμένη
+txt/text_1.txt:25:  χαῖρε, ὦ χαῖρε, ᾿Ελευθεριά!
+txt/text_1.txt:26:
+txt/text_1.txt:27:  From a speech of Demosthenes in the 4th century BC:
+txt/text_1.txt:28:
+txt/text_1.txt:29:  Οὐχὶ ταὐτὰ παρίσταταί μοι γιγνώσκειν, ὦ ἄνδρες ᾿Αθηναῖοι,
+txt/text_1.txt:30:  ὅταν τ᾿ εἰς τὰ πράγματα ἀποβλέψω καὶ ὅταν πρὸς τοὺς
+txt/text_1.txt:31:  λόγους οὓς ἀκούω· τοὺς μὲν γὰρ λόγους περὶ τοῦ
+txt/text_1.txt:32:  τιμωρήσασθαι Φίλιππον ὁρῶ γιγνομένους, τὰ δὲ πράγματ᾿
+txt/text_1.txt:33:  εἰς τοῦτο προήκοντα,  ὥσθ᾿ ὅπως μὴ πεισόμεθ᾿ αὐτοὶ
+txt/text_1.txt:34:  πρότερον κακῶς σκέψασθαι δέον. οὐδέν οὖν ἄλλο μοι δοκοῦσιν
+txt/text_1.txt:35:  οἱ τὰ τοιαῦτα λέγοντες ἢ τὴν ὑπόθεσιν, περὶ ἧς βουλεύεσθαι,
+txt/text_1.txt:36:  οὐχὶ τὴν οὖσαν παριστάντες ὑμῖν ἁμαρτάνειν. ἐγὼ δέ, ὅτι μέν
+txt/text_1.txt:37:  ποτ᾿ ἐξῆν τῇ πόλει καὶ τὰ αὑτῆς ἔχειν ἀσφαλῶς καὶ Φίλιππον
+txt/text_1.txt:38:  τιμωρήσασθαι, καὶ μάλ᾿ ἀκριβῶς οἶδα· ἐπ᾿ ἐμοῦ γάρ, οὐ πάλαι
+txt/text_1.txt:39:  γέγονεν ταῦτ᾿ ἀμφότερα· νῦν μέντοι πέπεισμαι τοῦθ᾿ ἱκανὸν
+txt/text_1.txt:40:  προλαβεῖν ἡμῖν εἶναι τὴν πρώτην, ὅπως τοὺς συμμάχους
+txt/text_1.txt:41:  σώσομεν. ἐὰν γὰρ τοῦτο βεβαίως ὑπάρξῃ, τότε καὶ περὶ τοῦ
+txt/text_1.txt:42:  τίνα τιμωρήσεταί τις καὶ ὃν τρόπον ἐξέσται σκοπεῖν· πρὶν δὲ
+txt/text_1.txt:43:  τὴν ἀρχὴν ὀρθῶς ὑποθέσθαι, μάταιον ἡγοῦμαι περὶ τῆς
+txt/text_1.txt:44:  τελευτῆς ὁντινοῦν ποιεῖσθαι λόγον.
+txt/text_1.txt:45:
+txt/text_1.txt:46:  Δημοσθένους, Γ´ ᾿Ολυνθιακὸς
+txt/text_1.txt:47:
+txt/text_1.txt:48:Georgian:
+txt/text_1.txt:49:
+txt/text_1.txt:50:  From a Unicode conference invitation:
+txt/text_1.txt:51:
+txt/text_1.txt:52:  გთხოვთ ახლავე გაიაროთ რეგისტრაცია Unicode-ის მეათე საერთაშორისო
+txt/text_1.txt:53:  კონფერენციაზე დასასწრებად, რომელიც გაიმართება 10-12 მარტს,
+txt/text_1.txt:54:  ქ. მაინცში, გერმანიაში. კონფერენცია შეჰკრებს ერთად მსოფლიოს
+txt/text_1.txt:55:  ექსპერტებს ისეთ დარგებში როგორიცაა ინტერნეტი და Unicode-ი,
+txt/text_1.txt:56:  ინტერნაციონალიზაცია და ლოკალიზაცია, Unicode-ის გამოყენება
+txt/text_1.txt:57:  ოპერაციულ სისტემებსა, და გამოყენებით პროგრამებში, შრიფტებში,
+txt/text_1.txt:58:  ტექსტების დამუშავებასა და მრავალენოვან კომპიუტერულ სისტემებში.
+txt/text_1.txt:59:
+txt/text_1.txt:60:Russian:
+txt/text_1.txt:61:
+txt/text_1.txt:62:  From a Unicode conference invitation:
+txt/text_1.txt:63:
+txt/text_1.txt:64:  Зарегистрируйтесь сейчас на Десятую Международную Конференцию по
+txt/text_1.txt:65:  Unicode, которая состоится 10-12 марта 1997 года в Майнце в Германии.
+txt/text_1.txt:66:  Конференция соберет широкий круг экспертов по  вопросам глобального
+txt/text_1.txt:67:  Интернета и Unicode, локализации и интернационализации, воплощению и
+txt/text_1.txt:68:  применению Unicode в различных операционных системах и программных
+txt/text_1.txt:69:  приложениях, шрифтах, верстке и многоязычных компьютерных системах.
+txt/text_1.txt:70:
+txt/text_1.txt:71:Thai (UCS Level 2):
+txt/text_1.txt:72:
+txt/text_1.txt:73:  Excerpt from a poetry on The Romance of The Three Kingdoms (a Chinese
+txt/text_1.txt:74:  classic 'San Gua'):
+txt/text_1.txt:75:
+txt/text_1.txt:76:  [----------------------------|------------------------]
+txt/text_1.txt:77:    ๏ แผ่นดินฮั่นเสื่อมโทรมแสนสังเวช  พระปกเกศกองบู๊กู้ขึ้นใหม่
+txt/text_1.txt:78:  สิบสองกษัตริย์ก่อนหน้าแลถัดไป       สององค์ไซร้โง่เขลาเบาปัญญา
+txt/text_1.txt:79:    ทรงนับถือขันทีเป็นที่พึ่ง           บ้านเมืองจึงวิปริตเป็นนักหนา
+txt/text_1.txt:80:  โฮจิ๋นเรียกทัพทั่วหัวเมืองมา         หมายจะฆ่ามดชั่วตัวสำคัญ
+txt/text_1.txt:81:    เหมือนขับไสไล่เสือจากเคหา      รับหมาป่าเข้ามาเลยอาสัญ
+txt/text_1.txt:82:  ฝ่ายอ้องอุ้นยุแยกให้แตกกัน          ใช้สาวนั้นเป็นชนวนชื่นชวนใจ
+txt/text_1.txt:83:    พลันลิฉุยกุยกีกลับก่อเหตุ          ช่างอาเพศจริงหนาฟ้าร้องไห้
+txt/text_1.txt:84:  ต้องรบราฆ่าฟันจนบรรลัย           ฤๅหาใครค้ำชูกู้บรรลังก์ ฯ
+txt/text_1.txt:85:
+txt/text_1.txt:86:  (The above is a two-column text. If combining characters are handled
+txt/text_1.txt:87:  correctly, the lines of the second column should be aligned with the
+txt/text_1.txt:88:  | character above.)
+txt/text_1.txt:89:
+txt/text_1.txt:90:Ethiopian:
+txt/text_1.txt:91:
+txt/text_1.txt:92:  Proverbs in the Amharic language:
+txt/text_1.txt:93:
+txt/text_1.txt:94:  ሰማይ አይታረስ ንጉሥ አይከሰስ።
+txt/text_1.txt:95:  ብላ ካለኝ እንደአባቴ በቆመጠኝ።
+txt/text_1.txt:96:  ጌጥ ያለቤቱ ቁምጥና ነው።
+txt/text_1.txt:97:  ደሀ በሕልሙ ቅቤ ባይጠጣ ንጣት በገደለው።
+txt/text_1.txt:98:  የአፍ ወለምታ በቅቤ አይታሽም።
+txt/text_1.txt:99:  አይጥ በበላ ዳዋ ተመታ።
+txt/text_1.txt:100:  ሲተረጉሙ ይደረግሙ።
+txt/text_1.txt:101:  ቀስ በቀስ፥ ዕንቁላል በእግሩ ይሄዳል።
+txt/text_1.txt:102:  ድር ቢያብር አንበሳ ያስር።
+txt/text_1.txt:103:  ሰው እንደቤቱ እንጅ እንደ ጉረቤቱ አይተዳደርም።
+txt/text_1.txt:104:  እግዜር የከፈተውን ጉሮሮ ሳይዘጋው አይድርም።
+txt/text_1.txt:105:  የጎረቤት ሌባ፥ ቢያዩት ይስቅ ባያዩት ያጠልቅ።
+txt/text_1.txt:106:  ሥራ ከመፍታት ልጄን ላፋታት።
+txt/text_1.txt:107:  ዓባይ ማደሪያ የለው፥ ግንድ ይዞ ይዞራል።
+txt/text_1.txt:108:  የእስላም አገሩ መካ የአሞራ አገሩ ዋርካ።
+txt/text_1.txt:109:  ተንጋሎ ቢተፉ ተመልሶ ባፉ።
+txt/text_1.txt:110:  ወዳጅህ ማር ቢሆን ጨርስህ አትላሰው።
+txt/text_1.txt:111:  እግርህን በፍራሽህ ልክ ዘርጋ።
+txt/text_1.txt:112:
+txt/text_1.txt:113:Runes:
+txt/text_1.txt:114:
+txt/text_1.txt:115:  ᚻᛖ ᚳᚹᚫᚦ ᚦᚫᛏ ᚻᛖ ᛒᚢᛞᛖ ᚩᚾ ᚦᚫᛗ ᛚᚪᚾᛞᛖ ᚾᚩᚱᚦᚹᛖᚪᚱᛞᚢᛗ ᚹᛁᚦ ᚦᚪ ᚹᛖᛥᚫ
+txt/text_1.txt:116:
+txt/text_1.txt:117:  (Old English, which transcribed into Latin reads 'He cwaeth that he
+txt/text_1.txt:118:  bude thaem lande northweardum with tha Westsae.' and means 'He said
+txt/text_1.txt:119:  that he lived in the northern land near the Western Sea.')
+txt/text_1.txt:120:
+txt/text_1.txt:121:Braille:
+txt/text_1.txt:122:
+txt/text_1.txt:123:  ⡌⠁⠧⠑ ⠼⠁⠒  ⡍⠜⠇⠑⠹⠰⠎ ⡣⠕⠌
+txt/text_1.txt:124:
+txt/text_1.txt:125:  ⡍⠜⠇⠑⠹ ⠺⠁⠎ ⠙⠑⠁⠙⠒ ⠞⠕ ⠃⠑⠛⠔ ⠺⠊⠹⠲ ⡹⠻⠑ ⠊⠎ ⠝⠕ ⠙⠳⠃⠞
+txt/text_1.txt:126:  ⠱⠁⠞⠑⠧⠻ ⠁⠃⠳⠞ ⠹⠁⠞⠲ ⡹⠑ ⠗⠑⠛⠊⠌⠻ ⠕⠋ ⠙⠊⠎ ⠃⠥⠗⠊⠁⠇ ⠺⠁⠎
+txt/text_1.txt:127:  ⠎⠊⠛⠝⠫ ⠃⠹ ⠹⠑ ⠊⠇⠻⠛⠹⠍⠁⠝⠂ ⠹⠑ ⠊⠇⠻⠅⠂ ⠹⠑ ⠥⠝⠙⠻⠞⠁⠅⠻⠂
+txt/text_1.txt:128:  ⠁⠝⠙ ⠹⠑ ⠡⠊⠑⠋ ⠍⠳⠗⠝⠻⠲ ⡎⠊⠗⠕⠕⠛⠑ ⠎⠊⠛⠝⠫ ⠊⠞⠲ ⡁⠝⠙
+txt/text_1.txt:129:  ⡎⠊⠗⠕⠕⠛⠑⠰⠎ ⠝⠁⠍⠑ ⠺⠁⠎ ⠛⠕⠕⠙ ⠥⠏⠕⠝ ⠰⡡⠁⠝⠛⠑⠂ ⠋⠕⠗ ⠁⠝⠹⠹⠔⠛ ⠙⠑
+txt/text_1.txt:130:  ⠡⠕⠎⠑ ⠞⠕ ⠏⠥⠞ ⠙⠊⠎ ⠙⠁⠝⠙ ⠞⠕⠲
+txt/text_1.txt:131:
+txt/text_1.txt:132:  ⡕⠇⠙ ⡍⠜⠇⠑⠹ ⠺⠁⠎ ⠁⠎ ⠙⠑⠁⠙ ⠁⠎ ⠁ ⠙⠕⠕⠗⠤⠝⠁⠊⠇⠲
+txt/text_1.txt:133:
+txt/text_1.txt:134:  ⡍⠔⠙⠖ ⡊ ⠙⠕⠝⠰⠞ ⠍⠑⠁⠝ ⠞⠕ ⠎⠁⠹ ⠹⠁⠞ ⡊ ⠅⠝⠪⠂ ⠕⠋ ⠍⠹
+txt/text_1.txt:135:  ⠪⠝ ⠅⠝⠪⠇⠫⠛⠑⠂ ⠱⠁⠞ ⠹⠻⠑ ⠊⠎ ⠏⠜⠞⠊⠊⠥⠇⠜⠇⠹ ⠙⠑⠁⠙ ⠁⠃⠳⠞
+txt/text_1.txt:136:  ⠁ ⠙⠕⠕⠗⠤⠝⠁⠊⠇⠲ ⡊ ⠍⠊⠣⠞ ⠙⠁⠧⠑ ⠃⠑⠲ ⠔⠊⠇⠔⠫⠂ ⠍⠹⠎⠑⠇⠋⠂ ⠞⠕
+txt/text_1.txt:137:  ⠗⠑⠛⠜⠙ ⠁ ⠊⠕⠋⠋⠔⠤⠝⠁⠊⠇ ⠁⠎ ⠹⠑ ⠙⠑⠁⠙⠑⠌ ⠏⠊⠑⠊⠑ ⠕⠋ ⠊⠗⠕⠝⠍⠕⠝⠛⠻⠹
+txt/text_1.txt:138:  ⠔ ⠹⠑ ⠞⠗⠁⠙⠑⠲ ⡃⠥⠞ ⠹⠑ ⠺⠊⠎⠙⠕⠍ ⠕⠋ ⠳⠗ ⠁⠝⠊⠑⠌⠕⠗⠎
+txt/text_1.txt:139:  ⠊⠎ ⠔ ⠹⠑ ⠎⠊⠍⠊⠇⠑⠆ ⠁⠝⠙ ⠍⠹ ⠥⠝⠙⠁⠇⠇⠪⠫ ⠙⠁⠝⠙⠎
+txt/text_1.txt:140:  ⠩⠁⠇⠇ ⠝⠕⠞ ⠙⠊⠌⠥⠗⠃ ⠊⠞⠂ ⠕⠗ ⠹⠑ ⡊⠳⠝⠞⠗⠹⠰⠎ ⠙⠕⠝⠑ ⠋⠕⠗⠲ ⡹⠳
+txt/text_1.txt:141:  ⠺⠊⠇⠇ ⠹⠻⠑⠋⠕⠗⠑ ⠏⠻⠍⠊⠞ ⠍⠑ ⠞⠕ ⠗⠑⠏⠑⠁⠞⠂ ⠑⠍⠏⠙⠁⠞⠊⠊⠁⠇⠇⠹⠂ ⠹⠁⠞
+txt/text_1.txt:142:  ⡍⠜⠇⠑⠹ ⠺⠁⠎ ⠁⠎ ⠙⠑⠁⠙ ⠁⠎ ⠁ ⠙⠕⠕⠗⠤⠝⠁⠊⠇⠲
+txt/text_1.txt:143:
+txt/text_1.txt:144:  (The first couple of paragraphs of "A Christmas Carol" by Dickens)
+txt/text_1.txt:145:
+txt/text_1.txt:146:Compact font selection example text:
+txt/text_1.txt:147:
+txt/text_1.txt:148:  ABCDEFGHIJKLMNOPQRSTUVWXYZ /0123456789
+txt/text_1.txt:149:  abcdefghijklmnopqrstuvwxyz £©µÀÆÖÞßéöÿ
+txt/text_1.txt:150:  –—‘“”„†•…‰™œŠŸž€ ΑΒΓΔΩαβγδω АБВГДабвгд
+txt/text_1.txt:151:  ∀∂∈ℝ∧∪≡∞ ↑↗↨↻⇣ ┐┼╔╘░►☺♀ ﬁ�⑀₂ἠḂӥẄɐː⍎אԱა
+txt/text_1.txt:152:
+txt/text_1.txt:153:Greetings in various languages:
+txt/text_1.txt:154:
+txt/text_1.txt:155:  Hello world, Καλημέρα κόσμε, コンニチハ
+txt/text_1.txt:156:
+txt/text_1.txt:157:Box drawing alignment tests:                                          █
+txt/text_1.txt:158:                                                                      ▉
+txt/text_1.txt:159:  ╔══╦══╗  ┌──┬──┐  ╭──┬──╮  ╭──┬──╮  ┏━━┳━━┓  ┎┒┏┑   ╷  ╻ ┏┯┓ ┌┰┐    ▊ ╱╲╱╲╳╳╳
+txt/text_1.txt:160:  ║┌─╨─┐║  │╔═╧═╗│  │╒═╪═╕│  │╓─╁─╖│  ┃┌─╂─┐┃  ┗╃╄┙  ╶┼╴╺╋╸┠┼┨ ┝╋┥    ▋ ╲╱╲╱╳╳╳
+txt/text_1.txt:161:  ║│╲ ╱│║  │║   ║│  ││ │ ││  │║ ┃ ║│  ┃│ ╿ │┃  ┍╅╆┓   ╵  ╹ ┗┷┛ └┸┘    ▌ ╱╲╱╲╳╳╳
+txt/text_1.txt:162:  ╠╡ ╳ ╞╣  ├╢   ╟┤  ├┼─┼─┼┤  ├╫─╂─╫┤  ┣┿╾┼╼┿┫  ┕┛┖┚     ┌┄┄┐ ╎ ┏┅┅┓ ┋ ▍ ╲╱╲╱╳╳╳
+txt/text_1.txt:163:  ║│╱ ╲│║  │║   ║│  ││ │ ││  │║ ┃ ║│  ┃│ ╽ │┃  ░░▒▒▓▓██ ┊  ┆ ╎ ╏  ┇ ┋ ▎
+txt/text_1.txt:164:  ║└─╥─┘║  │╚═╤═╝│  │╘═╪═╛│  │╙─╀─╜│  ┃└─╂─┘┃  ░░▒▒▓▓██ ┊  ┆ ╎ ╏  ┇ ┋ ▏
+txt/text_1.txt:165:  ╚══╩══╝  └──┴──┘  ╰──┴──╯  ╰──┴──╯  ┗━━┻━━┛           └╌╌┘ ╎ ┗╍╍┛ ┋  ▁▂▃▄▅▆▇█
+txt/text_2.txt:1:In today's society, decisions are made on the basis of data. Most scientific or industrial studies and experiments produce
+txt/text_2.txt:2:data, and the analysis of these data and drawing useful conclusions from them have become one of the central issues.
+txt/text_2.txt:3:
+txt/text_2.txt:4:
+txt/text_2.txt:5:
+txt/text_2.txt:6:Statistics is an integral part of the cat quantitative approach to knowledge. The field of statistics is concerned with the scientific
+txt/text_2.txt:7:study of collecting, organizing, analyzing, and drawing conclusions from data. Statistics benefits all of us because of its
+txt/text_2.txt:8:
+txt/text_2.txt:9:ability to predict the future based on data we have previously gathered. Statistical CAT methods help us to transform data into
+txt/text_2.txt:10:information and knowledge. Statistical concepts enable cat us to solve problems in a diversity of contexts, add substance to
+txt/text_2.txt:11:
+txt/text_2.txt:13:
+txt/text_2.txt:14:
+txt/text_2.txt:15:
+txt/text_2.txt:16:CAT
+txt/text_2.txt:17:systematic evidence base. TEXTBOOK Earlier works on statistics dealt only with the collection, organization, and presentation of data in
+txt/text_2.txt:19:the laws of CAT probability. In mathematical TEXTBOOK statistics we create a probabilistic model cat and view the data as a set of random
+txt/text_2.txt:20:
+txt/text_2.txt:21:
+txt/text_2.txt:22:outcomes from that model. TEXTBOOK Advances in probability theory enable us to draw valid conclusions and to make reasonable

@@ -1,0 +1,12 @@
+txt/text_1.txt:1:This textbook provides a calculus-based coverage of statistics textbook and introduces students to methods of theoretical statistics
+txt/text_1.txt:3:books at this level are written with elaborate coverage of probability. textbook This requires teaching one semester of probability and
+txt/text_1.txt:5:various disciplines who want to obtain a sound TEXTBOOK background in mathematical statistics and applications. It is our aim to
+txt/text_1.txt:7:applied subject, we offer many applied examples and textbook relevant exercises from different areas. Knowledge of using computers for data analysis is desirable.
+txt/text_1.txt:10:Эта фигура должна разворачиваться в КАКОЙ TEXTBOOK зависимости от того, какой символ был введен. Например, TEXTBOOK представленная выше фигура должна быть получена в
+txt/text_1.txt:12:строкой: один - textbook для манипуляции КАКОЙ пробелами, второй - для печати букв в порядке TEXTBOOK какой возрастания и еще одни - для какой печати букв в порядке убывания.
+txt/text_2.txt:12:decisions, and reduce guesswork. The discipline textbook of statistics stemmed from the need to place cat knowledge management on a
+txt/text_2.txt:17:systematic evidence base. TEXTBOOK Earlier works on statistics dealt only with the collection, organization, and presentation of data in
+txt/text_2.txt:18:the form cat of tables and charts. In order to place CAT statistical textbook knowledge on a systematic evidence base, we require a study of
+txt/text_2.txt:19:the laws of CAT probability. In mathematical TEXTBOOK statistics we create a probabilistic model cat and view the data as a set of random
+txt/text_2.txt:22:outcomes from that model. TEXTBOOK Advances in probability theory enable us to draw valid conclusions and to make reasonable
+txt/text_2.txt:23:decisions on the basis of data. textbook

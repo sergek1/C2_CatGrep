@@ -1,0 +1,23 @@
+     1	In today's society, decisions are made on the basis of data. Most scientific or industrial studies and experiments produce
+     2	data, and the analysis of these data and drawing useful conclusions from them have become one of the central issues.
+
+
+
+     3	Statistics is an integral part of the cat quantitative approach to knowledge. The field of statistics is concerned with the scientific
+     4	study of collecting, organizing, analyzing, and drawing conclusions from data. Statistics benefits all of us because of its
+
+     5	ability to predict the future based on data we have previously gathered. Statistical CAT methods help us to transform data into
+     6	information and knowledge. Statistical concepts enable cat us to solve problems in a diversity of contexts, add substance to
+
+     7	decisions, and reduce guesswork. The discipline textbook of statistics stemmed from the need to place cat knowledge management on a
+
+
+
+     8	CAT
+     9	systematic evidence base. TEXTBOOK Earlier works on statistics dealt only with the collection, organization, and presentation of data in
+    10	the form cat of tables and charts. In order to place CAT statistical textbook knowledge on a systematic evidence base, we require a study of
+    11	the laws of CAT probability. In mathematical TEXTBOOK statistics we create a probabilistic model cat and view the data as a set of random
+
+
+    12	outcomes from that model. TEXTBOOK Advances in probability theory enable us to draw valid conclusions and to make reasonable
+    13	decisions on the basis of data. textbook

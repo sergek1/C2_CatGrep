@@ -1,0 +1,8 @@
+txt/text_1.txt:textbook
+textbook
+txt/text_1.txt:textbook
+txt/text_1.txt:textbook
+txt/text_1.txt:textbook
+txt/text_2.txt:textbook
+txt/text_2.txt:textbook
+txt/text_2.txt:textbook

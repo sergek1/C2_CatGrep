@@ -1,0 +1,225 @@
+This textbook provides a calculus-based coverage of statistics textbook and introduces students to methods of theoretical statistics
+and their applications. It assumes no prior knowledge of statistics or probability theory, but does require calculus. Most
+books at this level are written with elaborate coverage of probability. textbook This requires teaching one semester of probability and
+then continuing with one or two semesters of statistics. This creates a particular problem for nonstatistics majors from
+various disciplines who want to obtain a sound TEXTBOOK background in mathematical statistics and applications. It is our aim to
+introduce basic concepts of statistics with sound theoretical explanations. Because statistics is basically an interdisciplinary
+applied subject, we offer many applied examples and textbook relevant exercises from different areas. Knowledge of using computers for data analysis is desirable.
+We present examples of solving statistical problems using Minitab, SPSS, and SAS.
+
+Эта фигура должна разворачиваться в КАКОЙ TEXTBOOK зависимости от того, какой символ был введен. Например, TEXTBOOK представленная выше фигура должна быть получена в
+ре­ зультате ввода символа Е. Совет: для обработки строк воспользуйтесь внешним циклом. Три внутренних цикла используйте для работы со
+строкой: один - textbook для манипуляции КАКОЙ пробелами, второй - для печати букв в порядке TEXTBOOK какой возрастания и еще одни - для какой печати букв в порядке убывания.
+Если ваша система не использует  кодировку ASCII или КАКОЙ подобную, в которой буквы представлены в строгом чи­ словом порядке, см. примечание в упражнении 3.
+
+  Σὲ γνωρίζω ἀπὸ τὴν κόψη
+  τοῦ σπαθιοῦ τὴν τρομερή,
+  σὲ γνωρίζω ἀπὸ τὴν ὄψη
+  ποὺ μὲ βία μετράει τὴ γῆ.
+
+  ᾿Απ᾿ τὰ κόκκαλα βγαλμένη
+  τῶν ῾Ελλήνων τὰ ἱερά
+  καὶ σὰν πρῶτα ἀνδρειωμένη
+  χαῖρε, ὦ χαῖρε, ᾿Ελευθεριά!
+
+  From a speech of Demosthenes in the 4th century BC:
+
+  Οὐχὶ ταὐτὰ παρίσταταί μοι γιγνώσκειν, ὦ ἄνδρες ᾿Αθηναῖοι,
+  ὅταν τ᾿ εἰς τὰ πράγματα ἀποβλέψω καὶ ὅταν πρὸς τοὺς
+  λόγους οὓς ἀκούω· τοὺς μὲν γὰρ λόγους περὶ τοῦ
+  τιμωρήσασθαι Φίλιππον ὁρῶ γιγνομένους, τὰ δὲ πράγματ᾿
+  εἰς τοῦτο προήκοντα,  ὥσθ᾿ ὅπως μὴ πεισόμεθ᾿ αὐτοὶ
+  πρότερον κακῶς σκέψασθαι δέον. οὐδέν οὖν ἄλλο μοι δοκοῦσιν
+  οἱ τὰ τοιαῦτα λέγοντες ἢ τὴν ὑπόθεσιν, περὶ ἧς βουλεύεσθαι,
+  οὐχὶ τὴν οὖσαν παριστάντες ὑμῖν ἁμαρτάνειν. ἐγὼ δέ, ὅτι μέν
+  ποτ᾿ ἐξῆν τῇ πόλει καὶ τὰ αὑτῆς ἔχειν ἀσφαλῶς καὶ Φίλιππον
+  τιμωρήσασθαι, καὶ μάλ᾿ ἀκριβῶς οἶδα· ἐπ᾿ ἐμοῦ γάρ, οὐ πάλαι
+  γέγονεν ταῦτ᾿ ἀμφότερα· νῦν μέντοι πέπεισμαι τοῦθ᾿ ἱκανὸν
+  προλαβεῖν ἡμῖν εἶναι τὴν πρώτην, ὅπως τοὺς συμμάχους
+  σώσομεν. ἐὰν γὰρ τοῦτο βεβαίως ὑπάρξῃ, τότε καὶ περὶ τοῦ
+  τίνα τιμωρήσεταί τις καὶ ὃν τρόπον ἐξέσται σκοπεῖν· πρὶν δὲ
+  τὴν ἀρχὴν ὀρθῶς ὑποθέσθαι, μάταιον ἡγοῦμαι περὶ τῆς
+  τελευτῆς ὁντινοῦν ποιεῖσθαι λόγον.
+
+  Δημοσθένους, Γ´ ᾿Ολυνθιακὸς
+
+Georgian:
+
+  From a Unicode conference invitation:
+
+  გთხოვთ ახლავე გაიაროთ რეგისტრაცია Unicode-ის მეათე საერთაშორისო
+  კონფერენციაზე დასასწრებად, რომელიც გაიმართება 10-12 მარტს,
+  ქ. მაინცში, გერმანიაში. კონფერენცია შეჰკრებს ერთად მსოფლიოს
+  ექსპერტებს ისეთ დარგებში როგორიცაა ინტერნეტი და Unicode-ი,
+  ინტერნაციონალიზაცია და ლოკალიზაცია, Unicode-ის გამოყენება
+  ოპერაციულ სისტემებსა, და გამოყენებით პროგრამებში, შრიფტებში,
+  ტექსტების დამუშავებასა და მრავალენოვან კომპიუტერულ სისტემებში.
+
+Russian:
+
+  From a Unicode conference invitation:
+
+  Зарегистрируйтесь сейчас на Десятую Международную Конференцию по
+  Unicode, которая состоится 10-12 марта 1997 года в Майнце в Германии.
+  Конференция соберет широкий круг экспертов по  вопросам глобального
+  Интернета и Unicode, локализации и интернационализации, воплощению и
+  применению Unicode в различных операционных системах и программных
+  приложениях, шрифтах, верстке и многоязычных компьютерных системах.
+
+Thai (UCS Level 2):
+
+  Excerpt from a poetry on The Romance of The Three Kingdoms (a Chinese
+  classic 'San Gua'):
+
+  [----------------------------|------------------------]
+    ๏ แผ่นดินฮั่นเสื่อมโทรมแสนสังเวช  พระปกเกศกองบู๊กู้ขึ้นใหม่
+  สิบสองกษัตริย์ก่อนหน้าแลถัดไป       สององค์ไซร้โง่เขลาเบาปัญญา
+    ทรงนับถือขันทีเป็นที่พึ่ง           บ้านเมืองจึงวิปริตเป็นนักหนา
+  โฮจิ๋นเรียกทัพทั่วหัวเมืองมา         หมายจะฆ่ามดชั่วตัวสำคัญ
+    เหมือนขับไสไล่เสือจากเคหา      รับหมาป่าเข้ามาเลยอาสัญ
+  ฝ่ายอ้องอุ้นยุแยกให้แตกกัน          ใช้สาวนั้นเป็นชนวนชื่นชวนใจ
+    พลันลิฉุยกุยกีกลับก่อเหตุ          ช่างอาเพศจริงหนาฟ้าร้องไห้
+  ต้องรบราฆ่าฟันจนบรรลัย           ฤๅหาใครค้ำชูกู้บรรลังก์ ฯ
+
+  (The above is a two-column text. If combining characters are handled
+  correctly, the lines of the second column should be aligned with the
+  | character above.)
+
+Ethiopian:
+
+  Proverbs in the Amharic language:
+
+  ሰማይ አይታረስ ንጉሥ አይከሰስ።
+  ብላ ካለኝ እንደአባቴ በቆመጠኝ።
+  ጌጥ ያለቤቱ ቁምጥና ነው።
+  ደሀ በሕልሙ ቅቤ ባይጠጣ ንጣት በገደለው።
+  የአፍ ወለምታ በቅቤ አይታሽም።
+  አይጥ በበላ ዳዋ ተመታ።
+  ሲተረጉሙ ይደረግሙ።
+  ቀስ በቀስ፥ ዕንቁላል በእግሩ ይሄዳል።
+  ድር ቢያብር አንበሳ ያስር።
+  ሰው እንደቤቱ እንጅ እንደ ጉረቤቱ አይተዳደርም።
+  እግዜር የከፈተውን ጉሮሮ ሳይዘጋው አይድርም።
+  የጎረቤት ሌባ፥ ቢያዩት ይስቅ ባያዩት ያጠልቅ።
+  ሥራ ከመፍታት ልጄን ላፋታት።
+  ዓባይ ማደሪያ የለው፥ ግንድ ይዞ ይዞራል።
+  የእስላም አገሩ መካ የአሞራ አገሩ ዋርካ።
+  ተንጋሎ ቢተፉ ተመልሶ ባፉ።
+  ወዳጅህ ማር ቢሆን ጨርስህ አትላሰው።
+  እግርህን በፍራሽህ ልክ ዘርጋ።
+
+Runes:
+
+  ᚻᛖ ᚳᚹᚫᚦ ᚦᚫᛏ ᚻᛖ ᛒᚢᛞᛖ ᚩᚾ ᚦᚫᛗ ᛚᚪᚾᛞᛖ ᚾᚩᚱᚦᚹᛖᚪᚱᛞᚢᛗ ᚹᛁᚦ ᚦᚪ ᚹᛖᛥᚫ
+
+  (Old English, which transcribed into Latin reads 'He cwaeth that he
+  bude thaem lande northweardum with tha Westsae.' and means 'He said
+  that he lived in the northern land near the Western Sea.')
+
+Braille:
+
+  ⡌⠁⠧⠑ ⠼⠁⠒  ⡍⠜⠇⠑⠹⠰⠎ ⡣⠕⠌
+
+  ⡍⠜⠇⠑⠹ ⠺⠁⠎ ⠙⠑⠁⠙⠒ ⠞⠕ ⠃⠑⠛⠔ ⠺⠊⠹⠲ ⡹⠻⠑ ⠊⠎ ⠝⠕ ⠙⠳⠃⠞
+  ⠱⠁⠞⠑⠧⠻ ⠁⠃⠳⠞ ⠹⠁⠞⠲ ⡹⠑ ⠗⠑⠛⠊⠌⠻ ⠕⠋ ⠙⠊⠎ ⠃⠥⠗⠊⠁⠇ ⠺⠁⠎
+  ⠎⠊⠛⠝⠫ ⠃⠹ ⠹⠑ ⠊⠇⠻⠛⠹⠍⠁⠝⠂ ⠹⠑ ⠊⠇⠻⠅⠂ ⠹⠑ ⠥⠝⠙⠻⠞⠁⠅⠻⠂
+  ⠁⠝⠙ ⠹⠑ ⠡⠊⠑⠋ ⠍⠳⠗⠝⠻⠲ ⡎⠊⠗⠕⠕⠛⠑ ⠎⠊⠛⠝⠫ ⠊⠞⠲ ⡁⠝⠙
+  ⡎⠊⠗⠕⠕⠛⠑⠰⠎ ⠝⠁⠍⠑ ⠺⠁⠎ ⠛⠕⠕⠙ ⠥⠏⠕⠝ ⠰⡡⠁⠝⠛⠑⠂ ⠋⠕⠗ ⠁⠝⠹⠹⠔⠛ ⠙⠑
+  ⠡⠕⠎⠑ ⠞⠕ ⠏⠥⠞ ⠙⠊⠎ ⠙⠁⠝⠙ ⠞⠕⠲
+
+  ⡕⠇⠙ ⡍⠜⠇⠑⠹ ⠺⠁⠎ ⠁⠎ ⠙⠑⠁⠙ ⠁⠎ ⠁ ⠙⠕⠕⠗⠤⠝⠁⠊⠇⠲
+
+  ⡍⠔⠙⠖ ⡊ ⠙⠕⠝⠰⠞ ⠍⠑⠁⠝ ⠞⠕ ⠎⠁⠹ ⠹⠁⠞ ⡊ ⠅⠝⠪⠂ ⠕⠋ ⠍⠹
+  ⠪⠝ ⠅⠝⠪⠇⠫⠛⠑⠂ ⠱⠁⠞ ⠹⠻⠑ ⠊⠎ ⠏⠜⠞⠊⠊⠥⠇⠜⠇⠹ ⠙⠑⠁⠙ ⠁⠃⠳⠞
+  ⠁ ⠙⠕⠕⠗⠤⠝⠁⠊⠇⠲ ⡊ ⠍⠊⠣⠞ ⠙⠁⠧⠑ ⠃⠑⠲ ⠔⠊⠇⠔⠫⠂ ⠍⠹⠎⠑⠇⠋⠂ ⠞⠕
+  ⠗⠑⠛⠜⠙ ⠁ ⠊⠕⠋⠋⠔⠤⠝⠁⠊⠇ ⠁⠎ ⠹⠑ ⠙⠑⠁⠙⠑⠌ ⠏⠊⠑⠊⠑ ⠕⠋ ⠊⠗⠕⠝⠍⠕⠝⠛⠻⠹
+  ⠔ ⠹⠑ ⠞⠗⠁⠙⠑⠲ ⡃⠥⠞ ⠹⠑ ⠺⠊⠎⠙⠕⠍ ⠕⠋ ⠳⠗ ⠁⠝⠊⠑⠌⠕⠗⠎
+  ⠊⠎ ⠔ ⠹⠑ ⠎⠊⠍⠊⠇⠑⠆ ⠁⠝⠙ ⠍⠹ ⠥⠝⠙⠁⠇⠇⠪⠫ ⠙⠁⠝⠙⠎
+  ⠩⠁⠇⠇ ⠝⠕⠞ ⠙⠊⠌⠥⠗⠃ ⠊⠞⠂ ⠕⠗ ⠹⠑ ⡊⠳⠝⠞⠗⠹⠰⠎ ⠙⠕⠝⠑ ⠋⠕⠗⠲ ⡹⠳
+  ⠺⠊⠇⠇ ⠹⠻⠑⠋⠕⠗⠑ ⠏⠻⠍⠊⠞ ⠍⠑ ⠞⠕ ⠗⠑⠏⠑⠁⠞⠂ ⠑⠍⠏⠙⠁⠞⠊⠊⠁⠇⠇⠹⠂ ⠹⠁⠞
+  ⡍⠜⠇⠑⠹ ⠺⠁⠎ ⠁⠎ ⠙⠑⠁⠙ ⠁⠎ ⠁ ⠙⠕⠕⠗⠤⠝⠁⠊⠇⠲
+
+  (The first couple of paragraphs of "A Christmas Carol" by Dickens)
+
+Compact font selection example text:
+
+  ABCDEFGHIJKLMNOPQRSTUVWXYZ /0123456789
+  abcdefghijklmnopqrstuvwxyz £©µÀÆÖÞßéöÿ
+  –—‘“”„†•…‰™œŠŸž€ ΑΒΓΔΩαβγδω АБВГДабвгд
+  ∀∂∈ℝ∧∪≡∞ ↑↗↨↻⇣ ┐┼╔╘░►☺♀ ﬁ�⑀₂ἠḂӥẄɐː⍎אԱა
+
+Greetings in various languages:
+
+  Hello world, Καλημέρα κόσμε, コンニチハ
+
+Box drawing alignment tests:                                          █
+                                                                      ▉
+  ╔══╦══╗  ┌──┬──┐  ╭──┬──╮  ╭──┬──╮  ┏━━┳━━┓  ┎┒┏┑   ╷  ╻ ┏┯┓ ┌┰┐    ▊ ╱╲╱╲╳╳╳
+  ║┌─╨─┐║  │╔═╧═╗│  │╒═╪═╕│  │╓─╁─╖│  ┃┌─╂─┐┃  ┗╃╄┙  ╶┼╴╺╋╸┠┼┨ ┝╋┥    ▋ ╲╱╲╱╳╳╳
+  ║│╲ ╱│║  │║   ║│  ││ │ ││  │║ ┃ ║│  ┃│ ╿ │┃  ┍╅╆┓   ╵  ╹ ┗┷┛ └┸┘    ▌ ╱╲╱╲╳╳╳
+  ╠╡ ╳ ╞╣  ├╢   ╟┤  ├┼─┼─┼┤  ├╫─╂─╫┤  ┣┿╾┼╼┿┫  ┕┛┖┚     ┌┄┄┐ ╎ ┏┅┅┓ ┋ ▍ ╲╱╲╱╳╳╳
+  ║│╱ ╲│║  │║   ║│  ││ │ ││  │║ ┃ ║│  ┃│ ╽ │┃  ░░▒▒▓▓██ ┊  ┆ ╎ ╏  ┇ ┋ ▎
+  ║└─╥─┘║  │╚═╤═╝│  │╘═╪═╛│  │╙─╀─╜│  ┃└─╂─┘┃  ░░▒▒▓▓██ ┊  ┆ ╎ ╏  ┇ ┋ ▏
+  ╚══╩══╝  └──┴──┘  ╰──┴──╯  ╰──┴──╯  ┗━━┻━━┛           └╌╌┘ ╎ ┗╍╍┛ ┋  ▁▂▃▄▅▆▇█
+In today's society, decisions are made on the basis of data. Most scientific or industrial studies and experiments produce
+data, and the analysis of these data and drawing useful conclusions from them have become one of the central issues.
+
+Statistics is an integral part of the cat quantitative approach to knowledge. The field of statistics is concerned with the scientific
+study of collecting, organizing, analyzing, and drawing conclusions from data. Statistics benefits all of us because of its
+
+ability to predict the future based on data we have previously gathered. Statistical CAT methods help us to transform data into
+information and knowledge. Statistical concepts enable cat us to solve problems in a diversity of contexts, add substance to
+
+decisions, and reduce guesswork. The discipline textbook of statistics stemmed from the need to place cat knowledge management on a
+
+CAT
+systematic evidence base. TEXTBOOK Earlier works on statistics dealt only with the collection, organization, and presentation of data in
+the form cat of tables and charts. In order to place CAT statistical textbook knowledge on a systematic evidence base, we require a study of
+the laws of CAT probability. In mathematical TEXTBOOK statistics we create a probabilistic model cat and view the data as a set of random
+
+outcomes from that model. TEXTBOOK Advances in probability theory enable us to draw valid conclusions and to make reasonable
+decisions on the basis of data. textbook
+Statistical
+methods are
+used in almost every
+discipline, including agriculture, astronomy,
+biology, business, communications, economics,
+        education, electronics, geology, health sciences, and many other fields of science and engineering,
+    and can aid us in several ways. Modern applications of statistical techniques include statistical communication theory and
+        signal processing, information theory, network security and denial-of-service problems, clinical trials, artificial and biological
+intelligence, quality control of manufactured items, software reliability, and survival analysis. The first of these is to
+        assist us in designing experiments and surveys. We desire our experiment to yield adequate answers to the questions that
+prompted the experiment or survey. We would like the answers to have good precision without involving a lot of
+        expenditure. Statistically designed experiments facilitate the development of robust products that are insensitive to changes
+in the environment and internal component variation. Another way that statistics assists us is in organizing, describing,
+summarizing, and displaying experimental data. This is termed descriptive statistics. Many of the descriptive statistics
+methods presented in this chapter are also part of the general area known as exploratory data analysis (EDA). A third use of
+
+statistics is in drawing inferences and making decisions based on data. For example, scientists may collect experimental
+data to prove or disprove an intuitive conjecture or hypothesis. Through the proper use of statistics, we can conclude
+whether the hypothesis is valid or not. In the process of solving a real-life problem using statistics, the following three basic
+steps may be identified. First, consistent with the objective of the problem, we identify the model using the appropriate
+statistical method. Then, we justify the applicability of the selected model to fulfill the aim of our problem. Last, we
+properly apply the related model to analyze the data and make the necessary decisions, which results in answering the
+question of our problem with minimum risk. Starting with Chapter 2, we will study the necessary background material to
+proceed with the development of statistical methods for solving real-world problems.
+123			11 /_______________________________________________/\0
+124 Statistical
+methods are
+
+used in almost every
+discipline, including agriculture, astronomy,
+
+ 		Qbiology, business, communications, economics,
+ 			Qbiology, business,
+ 	12345 12345,
+dddd
+1
+
+123
+
+
+
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~�������������������������������������������������������������������������������������������������������������������������������� 	
+
+ !"#$%&'()*+

@@ -1,0 +1,163 @@
+This textbook provides a calculus-based coverage of statistics textbook and introduces students to methods of theoretical statistics$
+and their applications. It assumes no prior knowledge of statistics or probability theory, but does require calculus. Most$
+books at this level are written with elaborate coverage of probability. textbook This requires teaching one semester of probability and$
+then continuing with one or two semesters of statistics. This creates a particular problem for nonstatistics majors from$
+various disciplines who want to obtain a sound TEXTBOOK background in mathematical statistics and applications. It is our aim to$
+introduce basic concepts of statistics with sound theoretical explanations. Because statistics is basically an interdisciplinary$
+applied subject, we offer many applied examples and textbook relevant exercises from different areas. Knowledge of using computers for data analysis is desirable.$
+We present examples of solving statistical problems using Minitab, SPSS, and SAS.$
+$
+–≠—M-^B–∞ —M-^D–∏–≥—M-^C—M-^@–∞ –¥–æ–ª–∂–Ω–∞ —M-^@–∞–∑–≤–æ—M-^@–∞—M-^G–∏–≤–∞—M-^B—M-^L—M-^A—M-^O –≤ –M-^Z–M-^P–M-^Z–M-^^–M-^Y TEXTBOOK –∑–∞–≤–∏—M-^A–∏–º–æ—M-^A—M-^B–∏ –æ—M-^B —M-^B–æ–≥–æ, –∫–∞–∫–æ–π —M-^A–∏–º–≤–æ–ª –±—M-^K–ª –≤–≤–µ–¥–µ–Ω. –M-^]–∞–ø—M-^@–∏–º–µ—M-^@, TEXTBOOK –ø—M-^@–µ–¥—M-^A—M-^B–∞–≤–ª–µ–Ω–Ω–∞—M-^O –≤—M-^K—M-^H–µ —M-^D–∏–≥—M-^C—M-^@–∞ –¥–æ–ª–∂–Ω–∞ –±—M-^K—M-^B—M-^L –ø–æ–ª—M-^C—M-^G–µ–Ω–∞ –≤$
+—M-^@–µ¬≠ –∑—M-^C–ª—M-^L—M-^B–∞—M-^B–µ –≤–≤–æ–¥–∞ —M-^A–∏–º–≤–æ–ª–∞ –M-^U. –°–æ–≤–µ—M-^B: –¥–ª—M-^O –æ–±—M-^@–∞–±–æ—M-^B–∫–∏ —M-^A—M-^B—M-^@–æ–∫ –≤–æ—M-^A–ø–æ–ª—M-^L–∑—M-^C–π—M-^B–µ—M-^A—M-^L –≤–Ω–µ—M-^H–Ω–∏–º —M-^F–∏–∫–ª–æ–º. –¢—M-^@–∏ –≤–Ω—M-^C—M-^B—M-^@–µ–Ω–Ω–∏—M-^E —M-^F–∏–∫–ª–∞ –∏—M-^A–ø–æ–ª—M-^L–∑—M-^C–π—M-^B–µ –¥–ª—M-^O —M-^@–∞–±–æ—M-^B—M-^K —M-^A–æ$
+—M-^A—M-^B—M-^@–æ–∫–æ–π: –æ–¥–∏–Ω - textbook –¥–ª—M-^O –º–∞–Ω–∏–ø—M-^C–ª—M-^O—M-^F–∏–∏ –M-^Z–M-^P–M-^Z–M-^^–M-^Y –ø—M-^@–æ–±–µ–ª–∞–º–∏, –≤—M-^B–æ—M-^@–æ–π - –¥–ª—M-^O –ø–µ—M-^G–∞—M-^B–∏ –±—M-^C–∫–≤ –≤ –ø–æ—M-^@—M-^O–¥–∫–µ TEXTBOOK –∫–∞–∫–æ–π –≤–æ–∑—M-^@–∞—M-^A—M-^B–∞–Ω–∏—M-^O –∏ –µ—M-^I–µ –æ–¥–Ω–∏ - –¥–ª—M-^O –∫–∞–∫–æ–π –ø–µ—M-^G–∞—M-^B–∏ –±—M-^C–∫–≤ –≤ –ø–æ—M-^@—M-^O–¥–∫–µ —M-^C–±—M-^K–≤–∞–Ω–∏—M-^O.$
+–M-^U—M-^A–ª–∏ –≤–∞—M-^H–∞ —M-^A–∏—M-^A—M-^B–µ–º–∞ –Ω–µ –∏—M-^A–ø–æ–ª—M-^L–∑—M-^C–µ—M-^B  –∫–æ–¥–∏—M-^@–æ–≤–∫—M-^C ASCII –∏–ª–∏ –M-^Z–M-^P–M-^Z–M-^^–M-^Y –ø–æ–¥–æ–±–Ω—M-^C—M-^N, –≤ –∫–æ—M-^B–æ—M-^@–æ–π –±—M-^C–∫–≤—M-^K –ø—M-^@–µ–¥—M-^A—M-^B–∞–≤–ª–µ–Ω—M-^K –≤ —M-^A—M-^B—M-^@–æ–≥–æ–º —M-^G–∏¬≠ —M-^A–ª–æ–≤–æ–º –ø–æ—M-^@—M-^O–¥–∫–µ, —M-^A–º. –ø—M-^@–∏–º–µ—M-^G–∞–Ω–∏–µ –≤ —M-^C–ø—M-^@–∞–∂–Ω–µ–Ω–∏–∏ 3.$
+$
+  Œ£·Ω≤ Œ≥ŒΩœM-^IœM-^A·Ω∑Œ∂œM-^I ·ºM-^@œM-^@·Ω∏ œM-^D·Ω¥ŒΩ Œ∫·ΩπœM-^HŒ∑$
+  œM-^DŒø·ø¶ œM-^CœM-^@Œ±Œ∏ŒπŒø·ø¶ œM-^D·Ω¥ŒΩ œM-^DœM-^AŒøŒºŒµœM-^A·Ωµ,$
+  œM-^C·Ω≤ Œ≥ŒΩœM-^IœM-^A·Ω∑Œ∂œM-^I ·ºM-^@œM-^@·Ω∏ œM-^D·Ω¥ŒΩ ·ΩM-^DœM-^HŒ∑$
+  œM-^@Œø·Ω∫ Œº·Ω≤ Œ≤·Ω∑Œ± ŒºŒµœM-^DœM-^A·Ω±ŒµŒπ œM-^D·Ω¥ Œ≥·øM-^F.$
+$
+  ·æøŒM-^QœM-^@·æø œM-^D·Ω∞ Œ∫·ΩπŒ∫Œ∫Œ±ŒªŒ± Œ≤Œ≥Œ±ŒªŒº·Ω≥ŒΩŒ∑$
+  œM-^D·ø∂ŒΩ ·øæŒM-^UŒªŒª·ΩµŒΩœM-^IŒΩ œM-^D·Ω∞ ·º±ŒµœM-^A·Ω±$
+  Œ∫Œ±·Ω∂ œM-^C·Ω∞ŒΩ œM-^@œM-^A·ø∂œM-^DŒ± ·ºM-^@ŒΩŒ¥œM-^AŒµŒπœM-^IŒº·Ω≥ŒΩŒ∑$
+  œM-^GŒ±·øM-^VœM-^AŒµ, ·Ω¶ œM-^GŒ±·øM-^VœM-^AŒµ, ·æøŒM-^UŒªŒµœM-^EŒ∏ŒµœM-^AŒπ·Ω±!$
+$
+  From a speech of Demosthenes in the 4th century BC:$
+$
+  ŒM-^_·ΩM-^PœM-^G·Ω∂ œM-^DŒ±·ΩM-^PœM-^D·Ω∞ œM-^@Œ±œM-^A·Ω∑œM-^CœM-^DŒ±œM-^DŒ±·Ω∑ ŒºŒøŒπ Œ≥ŒπŒ≥ŒΩ·ΩΩœM-^CŒ∫ŒµŒπŒΩ, ·Ω¶ ·ºM-^DŒΩŒ¥œM-^AŒµœM-^B ·æøŒM-^QŒ∏Œ∑ŒΩŒ±·øM-^VŒøŒπ,$
+  ·ΩM-^EœM-^DŒ±ŒΩ œM-^D·æø Œµ·º∞œM-^B œM-^D·Ω∞ œM-^@œM-^A·Ω±Œ≥ŒºŒ±œM-^DŒ± ·ºM-^@œM-^@ŒøŒ≤Œª·Ω≥œM-^HœM-^I Œ∫Œ±·Ω∂ ·ΩM-^EœM-^DŒ±ŒΩ œM-^@œM-^A·Ω∏œM-^B œM-^DŒø·Ω∫œM-^B$
+  Œª·ΩπŒ≥ŒøœM-^EœM-^B Œø·ΩM-^SœM-^B ·ºM-^@Œ∫Œø·ΩªœM-^IŒM-^G œM-^DŒø·Ω∫œM-^B Œº·Ω≤ŒΩ Œ≥·Ω∞œM-^A Œª·ΩπŒ≥ŒøœM-^EœM-^B œM-^@ŒµœM-^A·Ω∂ œM-^DŒø·ø¶$
+  œM-^DŒπŒºœM-^IœM-^A·ΩµœM-^CŒ±œM-^CŒ∏Œ±Œπ Œ¶·Ω∑ŒªŒπœM-^@œM-^@ŒøŒΩ ·ΩM-^AœM-^A·ø∂ Œ≥ŒπŒ≥ŒΩŒøŒº·Ω≥ŒΩŒøœM-^EœM-^B, œM-^D·Ω∞ Œ¥·Ω≤ œM-^@œM-^A·Ω±Œ≥ŒºŒ±œM-^D·æø$
+  Œµ·º∞œM-^B œM-^DŒø·ø¶œM-^DŒø œM-^@œM-^AŒø·ΩµŒ∫ŒøŒΩœM-^DŒ±,  ·Ω•œM-^CŒ∏·æø ·ΩM-^EœM-^@œM-^IœM-^B Œº·Ω¥ œM-^@ŒµŒπœM-^C·ΩπŒºŒµŒ∏·æø Œ±·ΩM-^PœM-^DŒø·Ω∂$
+  œM-^@œM-^A·ΩπœM-^DŒµœM-^AŒøŒΩ Œ∫Œ±Œ∫·ø∂œM-^B œM-^CŒ∫·Ω≥œM-^HŒ±œM-^CŒ∏Œ±Œπ Œ¥·Ω≥ŒøŒΩ. Œø·ΩM-^PŒ¥·Ω≥ŒΩ Œø·ΩM-^VŒΩ ·ºM-^DŒªŒªŒø ŒºŒøŒπ Œ¥ŒøŒ∫Œø·ø¶œM-^CŒπŒΩ$
+  Œø·º± œM-^D·Ω∞ œM-^DŒøŒπŒ±·ø¶œM-^DŒ± Œª·Ω≥Œ≥ŒøŒΩœM-^DŒµœM-^B ·º¢ œM-^D·Ω¥ŒΩ ·ΩM-^QœM-^@·ΩπŒ∏ŒµœM-^CŒπŒΩ, œM-^@ŒµœM-^A·Ω∂ ·ºßœM-^B Œ≤ŒøœM-^EŒªŒµ·ΩªŒµœM-^CŒ∏Œ±Œπ,$
+  Œø·ΩM-^PœM-^G·Ω∂ œM-^D·Ω¥ŒΩ Œø·ΩM-^VœM-^CŒ±ŒΩ œM-^@Œ±œM-^AŒπœM-^CœM-^D·Ω±ŒΩœM-^DŒµœM-^B ·ΩM-^QŒº·øM-^VŒΩ ·ºM-^AŒºŒ±œM-^AœM-^D·Ω±ŒΩŒµŒπŒΩ. ·ºM-^PŒ≥·Ωº Œ¥·Ω≥, ·ΩM-^EœM-^DŒπ Œº·Ω≥ŒΩ$
+  œM-^@ŒøœM-^D·æø ·ºM-^PŒæ·øM-^FŒΩ œM-^D·øM-^G œM-^@·ΩπŒªŒµŒπ Œ∫Œ±·Ω∂ œM-^D·Ω∞ Œ±·ΩM-^QœM-^D·øM-^FœM-^B ·ºM-^TœM-^GŒµŒπŒΩ ·ºM-^@œM-^CœM-^FŒ±Œª·ø∂œM-^B Œ∫Œ±·Ω∂ Œ¶·Ω∑ŒªŒπœM-^@œM-^@ŒøŒΩ$
+  œM-^DŒπŒºœM-^IœM-^A·ΩµœM-^CŒ±œM-^CŒ∏Œ±Œπ, Œ∫Œ±·Ω∂ Œº·Ω±Œª·æø ·ºM-^@Œ∫œM-^AŒπŒ≤·ø∂œM-^B Œø·º∂Œ¥Œ±ŒM-^G ·ºM-^PœM-^@·æø ·ºM-^PŒºŒø·ø¶ Œ≥·Ω±œM-^A, Œø·ΩM-^P œM-^@·Ω±ŒªŒ±Œπ$
+  Œ≥·Ω≥Œ≥ŒøŒΩŒµŒΩ œM-^DŒ±·ø¶œM-^D·æø ·ºM-^@ŒºœM-^F·ΩπœM-^DŒµœM-^AŒ±ŒM-^G ŒΩ·ø¶ŒΩ Œº·Ω≥ŒΩœM-^DŒøŒπ œM-^@·Ω≥œM-^@ŒµŒπœM-^CŒºŒ±Œπ œM-^DŒø·ø¶Œ∏·æø ·º±Œ∫Œ±ŒΩ·Ω∏ŒΩ$
+  œM-^@œM-^AŒøŒªŒ±Œ≤Œµ·øM-^VŒΩ ·º°Œº·øM-^VŒΩ Œµ·º∂ŒΩŒ±Œπ œM-^D·Ω¥ŒΩ œM-^@œM-^A·ΩΩœM-^DŒ∑ŒΩ, ·ΩM-^EœM-^@œM-^IœM-^B œM-^DŒø·Ω∫œM-^B œM-^CœM-^EŒºŒº·Ω±œM-^GŒøœM-^EœM-^B$
+  œM-^C·ΩΩœM-^CŒøŒºŒµŒΩ. ·ºM-^P·Ω∞ŒΩ Œ≥·Ω∞œM-^A œM-^DŒø·ø¶œM-^DŒø Œ≤ŒµŒ≤Œ±·Ω∑œM-^IœM-^B ·ΩM-^QœM-^@·Ω±œM-^AŒæ·øM-^C, œM-^D·ΩπœM-^DŒµ Œ∫Œ±·Ω∂ œM-^@ŒµœM-^A·Ω∂ œM-^DŒø·ø¶$
+  œM-^D·Ω∑ŒΩŒ± œM-^DŒπŒºœM-^IœM-^A·ΩµœM-^CŒµœM-^DŒ±·Ω∑ œM-^DŒπœM-^B Œ∫Œ±·Ω∂ ·ΩM-^CŒΩ œM-^DœM-^A·ΩπœM-^@ŒøŒΩ ·ºM-^PŒæ·Ω≥œM-^CœM-^DŒ±Œπ œM-^CŒ∫ŒøœM-^@Œµ·øM-^VŒΩŒM-^G œM-^@œM-^A·Ω∂ŒΩ Œ¥·Ω≤$
+  œM-^D·Ω¥ŒΩ ·ºM-^@œM-^AœM-^G·Ω¥ŒΩ ·ΩM-^@œM-^AŒ∏·ø∂œM-^B ·ΩM-^QœM-^@ŒøŒ∏·Ω≥œM-^CŒ∏Œ±Œπ, Œº·Ω±œM-^DŒ±ŒπŒøŒΩ ·º°Œ≥Œø·ø¶ŒºŒ±Œπ œM-^@ŒµœM-^A·Ω∂ œM-^D·øM-^FœM-^B$
+  œM-^DŒµŒªŒµœM-^EœM-^D·øM-^FœM-^B ·ΩM-^AŒΩœM-^DŒπŒΩŒø·ø¶ŒΩ œM-^@ŒøŒπŒµ·øM-^VœM-^CŒ∏Œ±Œπ Œª·ΩπŒ≥ŒøŒΩ.$
+$
+  ŒM-^TŒ∑ŒºŒøœM-^CŒ∏·Ω≥ŒΩŒøœM-^EœM-^B, ŒM-^S·øΩ ·æøŒM-^_ŒªœM-^EŒΩŒ∏ŒπŒ±Œ∫·Ω∏œM-^B$
+$
+Georgian:$
+$
+  From a Unicode conference invitation:$
+$
+  ·M-^CM-^R·M-^CM-^W·M-^CÆ·M-^CM-^]·M-^CM-^U·M-^CM-^W ·M-^CM-^P·M-^CÆ·M-^CM-^Z·M-^CM-^P·M-^CM-^U·M-^CM-^T ·M-^CM-^R·M-^CM-^P·M-^CM-^X·M-^CM-^P·M-^C†·M-^CM-^]·M-^CM-^W ·M-^C†·M-^CM-^T·M-^CM-^R·M-^CM-^X·M-^C°·M-^C¢·M-^C†·M-^CM-^P·M-^C™·M-^CM-^X·M-^CM-^P Unicode-·M-^CM-^X·M-^C° ·M-^CM-^[·M-^CM-^T·M-^CM-^P·M-^CM-^W·M-^CM-^T ·M-^C°·M-^CM-^P·M-^CM-^T·M-^C†·M-^CM-^W·M-^CM-^P·M-^C®·M-^CM-^]·M-^C†·M-^CM-^X·M-^C°·M-^CM-^]$
+  ·M-^CM-^Y·M-^CM-^]·M-^CM-^\·M-^C§·M-^CM-^T·M-^C†·M-^CM-^T·M-^CM-^\·M-^C™·M-^CM-^X·M-^CM-^P·M-^CM-^V·M-^CM-^T ·M-^CM-^S·M-^CM-^P·M-^C°·M-^CM-^P·M-^C°·M-^C¨·M-^C†·M-^CM-^T·M-^CM-^Q·M-^CM-^P·M-^CM-^S, ·M-^C†·M-^CM-^]·M-^CM-^[·M-^CM-^T·M-^CM-^Z·M-^CM-^X·M-^C™ ·M-^CM-^R·M-^CM-^P·M-^CM-^X·M-^CM-^[·M-^CM-^P·M-^C†·M-^CM-^W·M-^CM-^T·M-^CM-^Q·M-^CM-^P 10-12 ·M-^CM-^[·M-^CM-^P·M-^C†·M-^C¢·M-^C°,$
+  ·M-^C•. ·M-^CM-^[·M-^CM-^P·M-^CM-^X·M-^CM-^\·M-^C™·M-^C®·M-^CM-^X, ·M-^CM-^R·M-^CM-^T·M-^C†·M-^CM-^[·M-^CM-^P·M-^CM-^\·M-^CM-^X·M-^CM-^P·M-^C®·M-^CM-^X. ·M-^CM-^Y·M-^CM-^]·M-^CM-^\·M-^C§·M-^CM-^T·M-^C†·M-^CM-^T·M-^CM-^\·M-^C™·M-^CM-^X·M-^CM-^P ·M-^C®·M-^CM-^T·M-^C∞·M-^CM-^Y·M-^C†·M-^CM-^T·M-^CM-^Q·M-^C° ·M-^CM-^T·M-^C†·M-^CM-^W·M-^CM-^P·M-^CM-^S ·M-^CM-^[·M-^C°·M-^CM-^]·M-^C§·M-^CM-^Z·M-^CM-^X·M-^CM-^]·M-^C°$
+  ·M-^CM-^T·M-^C•·M-^C°·M-^CM-^^·M-^CM-^T·M-^C†·M-^C¢·M-^CM-^T·M-^CM-^Q·M-^C° ·M-^CM-^X·M-^C°·M-^CM-^T·M-^CM-^W ·M-^CM-^S·M-^CM-^P·M-^C†·M-^CM-^R·M-^CM-^T·M-^CM-^Q·M-^C®·M-^CM-^X ·M-^C†·M-^CM-^]·M-^CM-^R·M-^CM-^]·M-^C†·M-^CM-^X·M-^C™·M-^CM-^P·M-^CM-^P ·M-^CM-^X·M-^CM-^\·M-^C¢·M-^CM-^T·M-^C†·M-^CM-^\·M-^CM-^T·M-^C¢·M-^CM-^X ·M-^CM-^S·M-^CM-^P Unicode-·M-^CM-^X,$
+  ·M-^CM-^X·M-^CM-^\·M-^C¢·M-^CM-^T·M-^C†·M-^CM-^\·M-^CM-^P·M-^C™·M-^CM-^X·M-^CM-^]·M-^CM-^\·M-^CM-^P·M-^CM-^Z·M-^CM-^X·M-^CM-^V·M-^CM-^P·M-^C™·M-^CM-^X·M-^CM-^P ·M-^CM-^S·M-^CM-^P ·M-^CM-^Z·M-^CM-^]·M-^CM-^Y·M-^CM-^P·M-^CM-^Z·M-^CM-^X·M-^CM-^V·M-^CM-^P·M-^C™·M-^CM-^X·M-^CM-^P, Unicode-·M-^CM-^X·M-^C° ·M-^CM-^R·M-^CM-^P·M-^CM-^[·M-^CM-^]·M-^Cß·M-^CM-^T·M-^CM-^\·M-^CM-^T·M-^CM-^Q·M-^CM-^P$
+  ·M-^CM-^]·M-^CM-^^·M-^CM-^T·M-^C†·M-^CM-^P·M-^C™·M-^CM-^X·M-^C£·M-^CM-^Z ·M-^C°·M-^CM-^X·M-^C°·M-^C¢·M-^CM-^T·M-^CM-^[·M-^CM-^T·M-^CM-^Q·M-^C°·M-^CM-^P, ·M-^CM-^S·M-^CM-^P ·M-^CM-^R·M-^CM-^P·M-^CM-^[·M-^CM-^]·M-^Cß·M-^CM-^T·M-^CM-^\·M-^CM-^T·M-^CM-^Q·M-^CM-^X·M-^CM-^W ·M-^CM-^^·M-^C†·M-^CM-^]·M-^CM-^R·M-^C†·M-^CM-^P·M-^CM-^[·M-^CM-^T·M-^CM-^Q·M-^C®·M-^CM-^X, ·M-^C®·M-^C†·M-^CM-^X·M-^C§·M-^C¢·M-^CM-^T·M-^CM-^Q·M-^C®·M-^CM-^X,$
+  ·M-^C¢·M-^CM-^T·M-^C•·M-^C°·M-^C¢·M-^CM-^T·M-^CM-^Q·M-^CM-^X·M-^C° ·M-^CM-^S·M-^CM-^P·M-^CM-^[·M-^C£·M-^C®·M-^CM-^P·M-^CM-^U·M-^CM-^T·M-^CM-^Q·M-^CM-^P·M-^C°·M-^CM-^P ·M-^CM-^S·M-^CM-^P ·M-^CM-^[·M-^C†·M-^CM-^P·M-^CM-^U·M-^CM-^P·M-^CM-^Z·M-^CM-^T·M-^CM-^\·M-^CM-^]·M-^CM-^U·M-^CM-^P·M-^CM-^\ ·M-^CM-^Y·M-^CM-^]·M-^CM-^[·M-^CM-^^·M-^CM-^X·M-^C£·M-^C¢·M-^CM-^T·M-^C†·M-^C£·M-^CM-^Z ·M-^C°·M-^CM-^X·M-^C°·M-^C¢·M-^CM-^T·M-^CM-^[·M-^CM-^T·M-^CM-^Q·M-^C®·M-^CM-^X.$
+$
+Russian:$
+$
+  From a Unicode conference invitation:$
+$
+  –M-^W–∞—M-^@–µ–≥–∏—M-^A—M-^B—M-^@–∏—M-^@—M-^C–π—M-^B–µ—M-^A—M-^L —M-^A–µ–π—M-^G–∞—M-^A –Ω–∞ –M-^T–µ—M-^A—M-^O—M-^B—M-^C—M-^N –M-^\–µ–∂–¥—M-^C–Ω–∞—M-^@–æ–¥–Ω—M-^C—M-^N –M-^Z–æ–Ω—M-^D–µ—M-^@–µ–Ω—M-^F–∏—M-^N –ø–æ$
+  Unicode, –∫–æ—M-^B–æ—M-^@–∞—M-^O —M-^A–æ—M-^A—M-^B–æ–∏—M-^B—M-^A—M-^O 10-12 –º–∞—M-^@—M-^B–∞ 1997 –≥–æ–¥–∞ –≤ –M-^\–∞–π–Ω—M-^F–µ –≤ –M-^S–µ—M-^@–º–∞–Ω–∏–∏.$
+  –M-^Z–æ–Ω—M-^D–µ—M-^@–µ–Ω—M-^F–∏—M-^O —M-^A–æ–±–µ—M-^@–µ—M-^B —M-^H–∏—M-^@–æ–∫–∏–π –∫—M-^@—M-^C–≥ —M-^M–∫—M-^A–ø–µ—M-^@—M-^B–æ–≤ –ø–æ  –≤–æ–ø—M-^@–æ—M-^A–∞–º –≥–ª–æ–±–∞–ª—M-^L–Ω–æ–≥–æ$
+  –M-^X–Ω—M-^B–µ—M-^@–Ω–µ—M-^B–∞ –∏ Unicode, –ª–æ–∫–∞–ª–∏–∑–∞—M-^F–∏–∏ –∏ –∏–Ω—M-^B–µ—M-^@–Ω–∞—M-^F–∏–æ–Ω–∞–ª–∏–∑–∞—M-^F–∏–∏, –≤–æ–ø–ª–æ—M-^I–µ–Ω–∏—M-^N –∏$
+  –ø—M-^@–∏–º–µ–Ω–µ–Ω–∏—M-^N Unicode –≤ —M-^@–∞–∑–ª–∏—M-^G–Ω—M-^K—M-^E –æ–ø–µ—M-^@–∞—M-^F–∏–æ–Ω–Ω—M-^K—M-^E —M-^A–∏—M-^A—M-^B–µ–º–∞—M-^E –∏ –ø—M-^@–æ–≥—M-^@–∞–º–º–Ω—M-^K—M-^E$
+  –ø—M-^@–∏–ª–æ–∂–µ–Ω–∏—M-^O—M-^E, —M-^H—M-^@–∏—M-^D—M-^B–∞—M-^E, –≤–µ—M-^@—M-^A—M-^B–∫–µ –∏ –º–Ω–æ–≥–æ—M-^O–∑—M-^K—M-^G–Ω—M-^K—M-^E –∫–æ–º–ø—M-^L—M-^N—M-^B–µ—M-^@–Ω—M-^K—M-^E —M-^A–∏—M-^A—M-^B–µ–º–∞—M-^E.$
+$
+Thai (UCS Level 2):$
+$
+  Excerpt from a poetry on The Romance of The Three Kingdoms (a Chinese$
+  classic 'San Gua'):$
+$
+  [----------------------------|------------------------]$
+    ‡πM-^O ‡πM-^A‡∏M-^\‡πM-^H‡∏M-^Y‡∏M-^T‡∏¥‡∏M-^Y‡∏Æ‡∏±‡πM-^H‡∏M-^Y‡πM-^@‡∏™‡∏∑‡πM-^H‡∏≠‡∏°‡πM-^B‡∏M-^W‡∏£‡∏°‡πM-^A‡∏™‡∏M-^Y‡∏™‡∏±‡∏M-^G‡πM-^@‡∏ß‡∏M-^J  ‡∏M-^^‡∏£‡∏∞‡∏M-^[‡∏M-^A‡πM-^@‡∏M-^A‡∏®‡∏M-^A‡∏≠‡∏M-^G‡∏M-^Z‡∏π‡πM-^J‡∏M-^A‡∏π‡πM-^I‡∏M-^B‡∏∂‡πM-^I‡∏M-^Y‡πM-^C‡∏´‡∏°‡πM-^H$
+  ‡∏™‡∏¥‡∏M-^Z‡∏™‡∏≠‡∏M-^G‡∏M-^A‡∏©‡∏±‡∏M-^U‡∏£‡∏¥‡∏¢‡πM-^L‡∏M-^A‡πM-^H‡∏≠‡∏M-^Y‡∏´‡∏M-^Y‡πM-^I‡∏≤‡πM-^A‡∏•‡∏M-^V‡∏±‡∏M-^T‡πM-^D‡∏M-^[       ‡∏™‡∏≠‡∏M-^G‡∏≠‡∏M-^G‡∏M-^D‡πM-^L‡πM-^D‡∏M-^K‡∏£‡πM-^I‡πM-^B‡∏M-^G‡πM-^H‡πM-^@‡∏M-^B‡∏•‡∏≤‡πM-^@‡∏M-^Z‡∏≤‡∏M-^[‡∏±‡∏M-^M‡∏M-^M‡∏≤$
+    ‡∏M-^W‡∏£‡∏M-^G‡∏M-^Y‡∏±‡∏M-^Z‡∏M-^V‡∏∑‡∏≠‡∏M-^B‡∏±‡∏M-^Y‡∏M-^W‡∏µ‡πM-^@‡∏M-^[‡πM-^G‡∏M-^Y‡∏M-^W‡∏µ‡πM-^H‡∏M-^^‡∏∂‡πM-^H‡∏M-^G           ‡∏M-^Z‡πM-^I‡∏≤‡∏M-^Y‡πM-^@‡∏°‡∏∑‡∏≠‡∏M-^G‡∏M-^H‡∏∂‡∏M-^G‡∏ß‡∏¥‡∏M-^[‡∏£‡∏¥‡∏M-^U‡πM-^@‡∏M-^[‡πM-^G‡∏M-^Y‡∏M-^Y‡∏±‡∏M-^A‡∏´‡∏M-^Y‡∏≤$
+  ‡πM-^B‡∏Æ‡∏M-^H‡∏¥‡πM-^K‡∏M-^Y‡πM-^@‡∏£‡∏µ‡∏¢‡∏M-^A‡∏M-^W‡∏±‡∏M-^^‡∏M-^W‡∏±‡πM-^H‡∏ß‡∏´‡∏±‡∏ß‡πM-^@‡∏°‡∏∑‡∏≠‡∏M-^G‡∏°‡∏≤         ‡∏´‡∏°‡∏≤‡∏¢‡∏M-^H‡∏∞‡∏M-^F‡πM-^H‡∏≤‡∏°‡∏M-^T‡∏M-^J‡∏±‡πM-^H‡∏ß‡∏M-^U‡∏±‡∏ß‡∏™‡∏≥‡∏M-^D‡∏±‡∏M-^M$
+    ‡πM-^@‡∏´‡∏°‡∏∑‡∏≠‡∏M-^Y‡∏M-^B‡∏±‡∏M-^Z‡πM-^D‡∏™‡πM-^D‡∏•‡πM-^H‡πM-^@‡∏™‡∏∑‡∏≠‡∏M-^H‡∏≤‡∏M-^A‡πM-^@‡∏M-^D‡∏´‡∏≤      ‡∏£‡∏±‡∏M-^Z‡∏´‡∏°‡∏≤‡∏M-^[‡πM-^H‡∏≤‡πM-^@‡∏M-^B‡πM-^I‡∏≤‡∏°‡∏≤‡πM-^@‡∏•‡∏¢‡∏≠‡∏≤‡∏™‡∏±‡∏M-^M$
+  ‡∏M-^]‡πM-^H‡∏≤‡∏¢‡∏≠‡πM-^I‡∏≠‡∏M-^G‡∏≠‡∏∏‡πM-^I‡∏M-^Y‡∏¢‡∏∏‡πM-^A‡∏¢‡∏M-^A‡πM-^C‡∏´‡πM-^I‡πM-^A‡∏M-^U‡∏M-^A‡∏M-^A‡∏±‡∏M-^Y          ‡πM-^C‡∏M-^J‡πM-^I‡∏™‡∏≤‡∏ß‡∏M-^Y‡∏±‡πM-^I‡∏M-^Y‡πM-^@‡∏M-^[‡πM-^G‡∏M-^Y‡∏M-^J‡∏M-^Y‡∏ß‡∏M-^Y‡∏M-^J‡∏∑‡πM-^H‡∏M-^Y‡∏M-^J‡∏ß‡∏M-^Y‡πM-^C‡∏M-^H$
+    ‡∏M-^^‡∏•‡∏±‡∏M-^Y‡∏•‡∏¥‡∏M-^I‡∏∏‡∏¢‡∏M-^A‡∏∏‡∏¢‡∏M-^A‡∏µ‡∏M-^A‡∏•‡∏±‡∏M-^Z‡∏M-^A‡πM-^H‡∏≠‡πM-^@‡∏´‡∏M-^U‡∏∏          ‡∏M-^J‡πM-^H‡∏≤‡∏M-^G‡∏≠‡∏≤‡πM-^@‡∏M-^^‡∏®‡∏M-^H‡∏£‡∏¥‡∏M-^G‡∏´‡∏M-^Y‡∏≤‡∏M-^_‡πM-^I‡∏≤‡∏£‡πM-^I‡∏≠‡∏M-^G‡πM-^D‡∏´‡πM-^I$
+  ‡∏M-^U‡πM-^I‡∏≠‡∏M-^G‡∏£‡∏M-^Z‡∏£‡∏≤‡∏M-^F‡πM-^H‡∏≤‡∏M-^_‡∏±‡∏M-^Y‡∏M-^H‡∏M-^Y‡∏M-^Z‡∏£‡∏£‡∏•‡∏±‡∏¢           ‡∏§‡πM-^E‡∏´‡∏≤‡πM-^C‡∏M-^D‡∏£‡∏M-^D‡πM-^I‡∏≥‡∏M-^J‡∏π‡∏M-^A‡∏π‡πM-^I‡∏M-^Z‡∏£‡∏£‡∏•‡∏±‡∏M-^G‡∏M-^A‡πM-^L ‡∏Ø$
+$
+  (The above is a two-column text. If combining characters are handled$
+  correctly, the lines of the second column should be aligned with the$
+  | character above.)$
+$
+Ethiopian:$
+$
+  Proverbs in the Amharic language:$
+$
+  ·M-^H∞·M-^HM-^[·M-^K≠ ·M-^J†·M-^K≠·M-^I≥·M-^H®·M-^Hµ ·M-^JM-^U·M-^LM-^I·M-^H• ·M-^J†·M-^K≠·M-^J®·M-^H∞·M-^Hµ·M-^M¢$
+  ·M-^I•·M-^HM-^K ·M-^J´·M-^HM-^H·M-^JM-^] ·M-^J•·M-^JM-^U·M-^K∞·M-^J†·M-^I£·M-^I¥ ·M-^I†·M-^IM-^F·M-^HM-^X·M-^L†·M-^JM-^]·M-^M¢$
+  ·M-^LM-^L·M-^L• ·M-^K´·M-^HM-^H·M-^I§·M-^I± ·M-^IM-^A·M-^HM-^]·M-^L•·M-^JM-^S ·M-^JM-^P·M-^KM-^M·M-^M¢$
+  ·M-^K∞·M-^HM-^@ ·M-^I†·M-^HM-^U·M-^HM-^M·M-^HM-^Y ·M-^IM-^E·M-^I§ ·M-^I£·M-^K≠·M-^L†·M-^L£ ·M-^JM-^U·M-^L£·M-^Iµ ·M-^I†·M-^LM-^H·M-^K∞·M-^HM-^H·M-^KM-^M·M-^M¢$
+  ·M-^K®·M-^J†·M-^MM-^M ·M-^KM-^H·M-^HM-^H·M-^HM-^]·M-^I≥ ·M-^I†·M-^IM-^E·M-^I§ ·M-^J†·M-^K≠·M-^I≥·M-^HΩ·M-^HM-^]·M-^M¢$
+  ·M-^J†·M-^K≠·M-^L• ·M-^I†·M-^I†·M-^HM-^K ·M-^K≥·M-^KM-^K ·M-^I∞·M-^HM-^X·M-^I≥·M-^M¢$
+  ·M-^H≤·M-^I∞·M-^H®·M-^LM-^I·M-^HM-^Y ·M-^K≠·M-^K∞·M-^H®·M-^LM-^M·M-^HM-^Y·M-^M¢$
+  ·M-^IM-^@·M-^Hµ ·M-^I†·M-^IM-^@·M-^Hµ·M-^M• ·M-^KM-^U·M-^JM-^U·M-^IM-^A·M-^HM-^K·M-^HM-^M ·M-^I†·M-^J•·M-^LM-^M·M-^H© ·M-^K≠·M-^HM-^D·M-^K≥·M-^HM-^M·M-^M¢$
+  ·M-^Kµ·M-^H≠ ·M-^I¢·M-^K´·M-^I•·M-^H≠ ·M-^J†·M-^JM-^U·M-^I†·M-^H≥ ·M-^K´·M-^Hµ·M-^H≠·M-^M¢$
+  ·M-^H∞·M-^KM-^M ·M-^J•·M-^JM-^U·M-^K∞·M-^I§·M-^I± ·M-^J•·M-^JM-^U·M-^LM-^E ·M-^J•·M-^JM-^U·M-^K∞ ·M-^LM-^I·M-^H®·M-^I§·M-^I± ·M-^J†·M-^K≠·M-^I∞·M-^K≥·M-^K∞·M-^H≠·M-^HM-^]·M-^M¢$
+  ·M-^J•·M-^LM-^M·M-^KM-^\·M-^H≠ ·M-^K®·M-^J®·M-^MM-^H·M-^I∞·M-^KM-^M·M-^JM-^U ·M-^LM-^I·M-^HÆ·M-^HÆ ·M-^H≥·M-^K≠·M-^KM-^X·M-^LM-^K·M-^KM-^M ·M-^J†·M-^K≠·M-^Kµ·M-^H≠·M-^HM-^]·M-^M¢$
+  ·M-^K®·M-^LM-^N·M-^H®·M-^I§·M-^Iµ ·M-^HM-^L·M-^I£·M-^M• ·M-^I¢·M-^K´·M-^K©·M-^Iµ ·M-^K≠·M-^Hµ·M-^IM-^E ·M-^I£·M-^K´·M-^K©·M-^Iµ ·M-^K´·M-^L†·M-^HM-^M·M-^IM-^E·M-^M¢$
+  ·M-^H•·M-^H´ ·M-^J®·M-^HM-^X·M-^MM-^M·M-^I≥·M-^Iµ ·M-^HM-^M·M-^LM-^D·M-^JM-^U ·M-^HM-^K·M-^MM-^K·M-^I≥·M-^Iµ·M-^M¢$
+  ·M-^KM-^S·M-^I£·M-^K≠ ·M-^HM-^[·M-^K∞·M-^H™·M-^K´ ·M-^K®·M-^HM-^H·M-^KM-^M·M-^M• ·M-^LM-^M·M-^JM-^U·M-^Kµ ·M-^K≠·M-^KM-^^ ·M-^K≠·M-^KM-^^·M-^H´·M-^HM-^M·M-^M¢$
+  ·M-^K®·M-^J•·M-^Hµ·M-^HM-^K·M-^HM-^] ·M-^J†·M-^LM-^H·M-^H© ·M-^HM-^X·M-^J´ ·M-^K®·M-^J†·M-^HM-^^·M-^H´ ·M-^J†·M-^LM-^H·M-^H© ·M-^KM-^K·M-^H≠·M-^J´·M-^M¢$
+  ·M-^I∞·M-^JM-^U·M-^LM-^K·M-^HM-^N ·M-^I¢·M-^I∞·M-^MM-^I ·M-^I∞·M-^HM-^X·M-^HM-^M·M-^H∂ ·M-^I£·M-^MM-^I·M-^M¢$
+  ·M-^KM-^H·M-^K≥·M-^LM-^E·M-^HM-^E ·M-^HM-^[·M-^H≠ ·M-^I¢·M-^HM-^F·M-^JM-^U ·M-^L®·M-^H≠·M-^Hµ·M-^HM-^E ·M-^J†·M-^Iµ·M-^HM-^K·M-^H∞·M-^KM-^M·M-^M¢$
+  ·M-^J•·M-^LM-^M·M-^H≠·M-^HM-^E·M-^JM-^U ·M-^I†·M-^MM-^M·M-^H´·M-^HΩ·M-^HM-^E ·M-^HM-^M·M-^J≠ ·M-^KM-^X·M-^H≠·M-^LM-^K·M-^M¢$
+$
+Runes:$
+$
+  ·M-^Zª·M-^[M-^V ·M-^Z≥·M-^Zπ·M-^Z´·M-^Z¶ ·M-^Z¶·M-^Z´·M-^[M-^O ·M-^Zª·M-^[M-^V ·M-^[M-^R·M-^Z¢·M-^[M-^^·M-^[M-^V ·M-^Z©·M-^Zæ ·M-^Z¶·M-^Z´·M-^[M-^W ·M-^[M-^Z·M-^Z™·M-^Zæ·M-^[M-^^·M-^[M-^V ·M-^Zæ·M-^Z©·M-^Z±·M-^Z¶·M-^Zπ·M-^[M-^V·M-^Z™·M-^Z±·M-^[M-^^·M-^Z¢·M-^[M-^W ·M-^Zπ·M-^[M-^A·M-^Z¶ ·M-^Z¶·M-^Z™ ·M-^Zπ·M-^[M-^V·M-^[•·M-^Z´$
+$
+  (Old English, which transcribed into Latin reads 'He cwaeth that he$
+  bude thaem lande northweardum with tha Westsae.' and means 'He said$
+  that he lived in the northern land near the Western Sea.')$
+$
+Braille:$
+$
+  ‚°M-^L‚†M-^A‚†ß‚†M-^Q ‚†º‚†M-^A‚†M-^R  ‚°M-^M‚†M-^\‚†M-^G‚†M-^Q‚†π‚†∞‚†M-^N ‚°£‚†M-^U‚†M-^L$
+$
+  ‚°M-^M‚†M-^\‚†M-^G‚†M-^Q‚†π ‚†∫‚†M-^A‚†M-^N ‚†M-^Y‚†M-^Q‚†M-^A‚†M-^Y‚†M-^R ‚†M-^^‚†M-^U ‚†M-^C‚†M-^Q‚†M-^[‚†M-^T ‚†∫‚†M-^J‚†π‚†≤ ‚°π‚†ª‚†M-^Q ‚†M-^J‚†M-^N ‚†M-^]‚†M-^U ‚†M-^Y‚†≥‚†M-^C‚†M-^^$
+  ‚†±‚†M-^A‚†M-^^‚†M-^Q‚†ß‚†ª ‚†M-^A‚†M-^C‚†≥‚†M-^^ ‚†π‚†M-^A‚†M-^^‚†≤ ‚°π‚†M-^Q ‚†M-^W‚†M-^Q‚†M-^[‚†M-^J‚†M-^L‚†ª ‚†M-^U‚†M-^K ‚†M-^Y‚†M-^J‚†M-^N ‚†M-^C‚†•‚†M-^W‚†M-^J‚†M-^A‚†M-^G ‚†∫‚†M-^A‚†M-^N$
+  ‚†M-^N‚†M-^J‚†M-^[‚†M-^]‚†´ ‚†M-^C‚†π ‚†π‚†M-^Q ‚†M-^J‚†M-^G‚†ª‚†M-^[‚†π‚†M-^M‚†M-^A‚†M-^]‚†M-^B ‚†π‚†M-^Q ‚†M-^J‚†M-^G‚†ª‚†M-^E‚†M-^B ‚†π‚†M-^Q ‚†•‚†M-^]‚†M-^Y‚†ª‚†M-^^‚†M-^A‚†M-^E‚†ª‚†M-^B$
+  ‚†M-^A‚†M-^]‚†M-^Y ‚†π‚†M-^Q ‚†°‚†M-^J‚†M-^Q‚†M-^K ‚†M-^M‚†≥‚†M-^W‚†M-^]‚†ª‚†≤ ‚°M-^N‚†M-^J‚†M-^W‚†M-^U‚†M-^U‚†M-^[‚†M-^Q ‚†M-^N‚†M-^J‚†M-^[‚†M-^]‚†´ ‚†M-^J‚†M-^^‚†≤ ‚°M-^A‚†M-^]‚†M-^Y$
+  ‚°M-^N‚†M-^J‚†M-^W‚†M-^U‚†M-^U‚†M-^[‚†M-^Q‚†∞‚†M-^N ‚†M-^]‚†M-^A‚†M-^M‚†M-^Q ‚†∫‚†M-^A‚†M-^N ‚†M-^[‚†M-^U‚†M-^U‚†M-^Y ‚†•‚†M-^O‚†M-^U‚†M-^] ‚†∞‚°°‚†M-^A‚†M-^]‚†M-^[‚†M-^Q‚†M-^B ‚†M-^K‚†M-^U‚†M-^W ‚†M-^A‚†M-^]‚†π‚†π‚†M-^T‚†M-^[ ‚†M-^Y‚†M-^Q$
+  ‚†°‚†M-^U‚†M-^N‚†M-^Q ‚†M-^^‚†M-^U ‚†M-^O‚†•‚†M-^^ ‚†M-^Y‚†M-^J‚†M-^N ‚†M-^Y‚†M-^A‚†M-^]‚†M-^Y ‚†M-^^‚†M-^U‚†≤$
+$
+  ‚°M-^U‚†M-^G‚†M-^Y ‚°M-^M‚†M-^\‚†M-^G‚†M-^Q‚†π ‚†∫‚†M-^A‚†M-^N ‚†M-^A‚†M-^N ‚†M-^Y‚†M-^Q‚†M-^A‚†M-^Y ‚†M-^A‚†M-^N ‚†M-^A ‚†M-^Y‚†M-^U‚†M-^U‚†M-^W‚†§‚†M-^]‚†M-^A‚†M-^J‚†M-^G‚†≤$
+$
+  ‚°M-^M‚†M-^T‚†M-^Y‚†M-^V ‚°M-^J ‚†M-^Y‚†M-^U‚†M-^]‚†∞‚†M-^^ ‚†M-^M‚†M-^Q‚†M-^A‚†M-^] ‚†M-^^‚†M-^U ‚†M-^N‚†M-^A‚†π ‚†π‚†M-^A‚†M-^^ ‚°M-^J ‚†M-^E‚†M-^]‚†™‚†M-^B ‚†M-^U‚†M-^K ‚†M-^M‚†π$
+  ‚†™‚†M-^] ‚†M-^E‚†M-^]‚†™‚†M-^G‚†´‚†M-^[‚†M-^Q‚†M-^B ‚†±‚†M-^A‚†M-^^ ‚†π‚†ª‚†M-^Q ‚†M-^J‚†M-^N ‚†M-^O‚†M-^\‚†M-^^‚†M-^J‚†M-^J‚†•‚†M-^G‚†M-^\‚†M-^G‚†π ‚†M-^Y‚†M-^Q‚†M-^A‚†M-^Y ‚†M-^A‚†M-^C‚†≥‚†M-^^$
+  ‚†M-^A ‚†M-^Y‚†M-^U‚†M-^U‚†M-^W‚†§‚†M-^]‚†M-^A‚†M-^J‚†M-^G‚†≤ ‚°M-^J ‚†M-^M‚†M-^J‚†£‚†M-^^ ‚†M-^Y‚†M-^A‚†ß‚†M-^Q ‚†M-^C‚†M-^Q‚†≤ ‚†M-^T‚†M-^J‚†M-^G‚†M-^T‚†´‚†M-^B ‚†M-^M‚†π‚†M-^N‚†M-^Q‚†M-^G‚†M-^K‚†M-^B ‚†M-^^‚†M-^U$
+  ‚†M-^W‚†M-^Q‚†M-^[‚†M-^\‚†M-^Y ‚†M-^A ‚†M-^J‚†M-^U‚†M-^K‚†M-^K‚†M-^T‚†§‚†M-^]‚†M-^A‚†M-^J‚†M-^G ‚†M-^A‚†M-^N ‚†π‚†M-^Q ‚†M-^Y‚†M-^Q‚†M-^A‚†M-^Y‚†M-^Q‚†M-^L ‚†M-^O‚†M-^J‚†M-^Q‚†M-^J‚†M-^Q ‚†M-^U‚†M-^K ‚†M-^J‚†M-^W‚†M-^U‚†M-^]‚†M-^M‚†M-^U‚†M-^]‚†M-^[‚†ª‚†π$
+  ‚†M-^T ‚†π‚†M-^Q ‚†M-^^‚†M-^W‚†M-^A‚†M-^Y‚†M-^Q‚†≤ ‚°M-^C‚†•‚†M-^^ ‚†π‚†M-^Q ‚†∫‚†M-^J‚†M-^N‚†M-^Y‚†M-^U‚†M-^M ‚†M-^U‚†M-^K ‚†≥‚†M-^W ‚†M-^A‚†M-^]‚†M-^J‚†M-^Q‚†M-^L‚†M-^U‚†M-^W‚†M-^N$
+  ‚†M-^J‚†M-^N ‚†M-^T ‚†π‚†M-^Q ‚†M-^N‚†M-^J‚†M-^M‚†M-^J‚†M-^G‚†M-^Q‚†M-^F ‚†M-^A‚†M-^]‚†M-^Y ‚†M-^M‚†π ‚†•‚†M-^]‚†M-^Y‚†M-^A‚†M-^G‚†M-^G‚†™‚†´ ‚†M-^Y‚†M-^A‚†M-^]‚†M-^Y‚†M-^N$
+  ‚†©‚†M-^A‚†M-^G‚†M-^G ‚†M-^]‚†M-^U‚†M-^^ ‚†M-^Y‚†M-^J‚†M-^L‚†•‚†M-^W‚†M-^C ‚†M-^J‚†M-^^‚†M-^B ‚†M-^U‚†M-^W ‚†π‚†M-^Q ‚°M-^J‚†≥‚†M-^]‚†M-^^‚†M-^W‚†π‚†∞‚†M-^N ‚†M-^Y‚†M-^U‚†M-^]‚†M-^Q ‚†M-^K‚†M-^U‚†M-^W‚†≤ ‚°π‚†≥$
+  ‚†∫‚†M-^J‚†M-^G‚†M-^G ‚†π‚†ª‚†M-^Q‚†M-^K‚†M-^U‚†M-^W‚†M-^Q ‚†M-^O‚†ª‚†M-^M‚†M-^J‚†M-^^ ‚†M-^M‚†M-^Q ‚†M-^^‚†M-^U ‚†M-^W‚†M-^Q‚†M-^O‚†M-^Q‚†M-^A‚†M-^^‚†M-^B ‚†M-^Q‚†M-^M‚†M-^O‚†M-^Y‚†M-^A‚†M-^^‚†M-^J‚†M-^J‚†M-^A‚†M-^G‚†M-^G‚†π‚†M-^B ‚†π‚†M-^A‚†M-^^$
+  ‚°M-^M‚†M-^\‚†M-^G‚†M-^Q‚†π ‚†∫‚†M-^A‚†M-^N ‚†M-^A‚†M-^N ‚†M-^Y‚†M-^Q‚†M-^A‚†M-^Y ‚†M-^A‚†M-^N ‚†M-^A ‚†M-^Y‚†M-^U‚†M-^U‚†M-^W‚†§‚†M-^]‚†M-^A‚†M-^J‚†M-^G‚†≤$
+$
+  (The first couple of paragraphs of "A Christmas Carol" by Dickens)$
+$
+Compact font selection example text:$
+$
+  ABCDEFGHIJKLMNOPQRSTUVWXYZ /0123456789$
+  abcdefghijklmnopqrstuvwxyz ¬£¬©¬µ√M-^@√M-^F√M-^V√M-^^√M-^_√©√∂√ø$
+  ‚M-^@M-^S‚M-^@M-^T‚M-^@M-^X‚M-^@M-^\‚M-^@M-^]‚M-^@M-^^‚M-^@†‚M-^@¢‚M-^@¶‚M-^@∞‚M-^D¢≈M-^S≈†≈∏≈æ‚M-^B¨ ŒM-^QŒM-^RŒM-^SŒM-^TŒ©Œ±Œ≤Œ≥Œ¥œM-^I –M-^P–M-^Q–M-^R–M-^S–M-^T–∞–±–≤–≥–¥$
+  ‚M-^HM-^@‚M-^HM-^B‚M-^HM-^H‚M-^DM-^]‚M-^Hß‚M-^H™‚M-^I°‚M-^HM-^^ ‚M-^FM-^Q‚M-^FM-^W‚M-^F®‚M-^Fª‚M-^G£ ‚M-^TM-^P‚M-^Tº‚M-^UM-^T‚M-^UM-^X‚M-^VM-^Q‚M-^V∫‚M-^X∫‚M-^YM-^@ Ô¨M-^AÔøΩ‚M-^QM-^@‚M-^BM-^B·º†·∏M-^B”•·∫M-^D…M-^PÀM-^P‚M-^MM-^N◊M-^P‘±·M-^CM-^P$
+$
+Greetings in various languages:$
+$
+  Hello world, ŒM-^ZŒ±ŒªŒ∑Œº·Ω≥œM-^AŒ± Œ∫·ΩπœM-^CŒºŒµ, „M-^B≥„M-^C≥„M-^CM-^K„M-^CM-^A„M-^CM-^O$
+$
+Box drawing alignment tests:                                          ‚M-^VM-^H$
+                                                                      ‚M-^VM-^I$
+  ‚M-^UM-^T‚M-^UM-^P‚M-^UM-^P‚M-^U¶‚M-^UM-^P‚M-^UM-^P‚M-^UM-^W  ‚M-^TM-^L‚M-^TM-^@‚M-^TM-^@‚M-^T¨‚M-^TM-^@‚M-^TM-^@‚M-^TM-^P  ‚M-^U≠‚M-^TM-^@‚M-^TM-^@‚M-^T¨‚M-^TM-^@‚M-^TM-^@‚M-^UÆ  ‚M-^U≠‚M-^TM-^@‚M-^TM-^@‚M-^T¨‚M-^TM-^@‚M-^TM-^@‚M-^UÆ  ‚M-^TM-^O‚M-^TM-^A‚M-^TM-^A‚M-^T≥‚M-^TM-^A‚M-^TM-^A‚M-^TM-^S  ‚M-^TM-^N‚M-^TM-^R‚M-^TM-^O‚M-^TM-^Q   ‚M-^U∑  ‚M-^Uª ‚M-^TM-^O‚M-^TØ‚M-^TM-^S ‚M-^TM-^L‚M-^T∞‚M-^TM-^P    ‚M-^VM-^J ‚M-^U±‚M-^U≤‚M-^U±‚M-^U≤‚M-^U≥‚M-^U≥‚M-^U≥$
+  ‚M-^UM-^Q‚M-^TM-^L‚M-^TM-^@‚M-^U®‚M-^TM-^@‚M-^TM-^P‚M-^UM-^Q  ‚M-^TM-^B‚M-^UM-^T‚M-^UM-^P‚M-^Uß‚M-^UM-^P‚M-^UM-^W‚M-^TM-^B  ‚M-^TM-^B‚M-^UM-^R‚M-^UM-^P‚M-^U™‚M-^UM-^P‚M-^UM-^U‚M-^TM-^B  ‚M-^TM-^B‚M-^UM-^S‚M-^TM-^@‚M-^UM-^A‚M-^TM-^@‚M-^UM-^V‚M-^TM-^B  ‚M-^TM-^C‚M-^TM-^L‚M-^TM-^@‚M-^UM-^B‚M-^TM-^@‚M-^TM-^P‚M-^TM-^C  ‚M-^TM-^W‚M-^UM-^C‚M-^UM-^D‚M-^TM-^Y  ‚M-^U∂‚M-^Tº‚M-^U¥‚M-^U∫‚M-^UM-^K‚M-^U∏‚M-^T†‚M-^Tº‚M-^T® ‚M-^TM-^]‚M-^UM-^K‚M-^T•    ‚M-^VM-^K ‚M-^U≤‚M-^U±‚M-^U≤‚M-^U±‚M-^U≥‚M-^U≥‚M-^U≥$
+  ‚M-^UM-^Q‚M-^TM-^B‚M-^U≤ ‚M-^U±‚M-^TM-^B‚M-^UM-^Q  ‚M-^TM-^B‚M-^UM-^Q   ‚M-^UM-^Q‚M-^TM-^B  ‚M-^TM-^B‚M-^TM-^B ‚M-^TM-^B ‚M-^TM-^B‚M-^TM-^B  ‚M-^TM-^B‚M-^UM-^Q ‚M-^TM-^C ‚M-^UM-^Q‚M-^TM-^B  ‚M-^TM-^C‚M-^TM-^B ‚M-^Uø ‚M-^TM-^B‚M-^TM-^C  ‚M-^TM-^M‚M-^UM-^E‚M-^UM-^F‚M-^TM-^S   ‚M-^Uµ  ‚M-^Uπ ‚M-^TM-^W‚M-^T∑‚M-^TM-^[ ‚M-^TM-^T‚M-^T∏‚M-^TM-^X    ‚M-^VM-^L ‚M-^U±‚M-^U≤‚M-^U±‚M-^U≤‚M-^U≥‚M-^U≥‚M-^U≥$
+  ‚M-^U†‚M-^U° ‚M-^U≥ ‚M-^UM-^^‚M-^U£  ‚M-^TM-^\‚M-^U¢   ‚M-^UM-^_‚M-^T§  ‚M-^TM-^\‚M-^Tº‚M-^TM-^@‚M-^Tº‚M-^TM-^@‚M-^Tº‚M-^T§  ‚M-^TM-^\‚M-^U´‚M-^TM-^@‚M-^UM-^B‚M-^TM-^@‚M-^U´‚M-^T§  ‚M-^T£‚M-^Tø‚M-^Uæ‚M-^Tº‚M-^Uº‚M-^Tø‚M-^T´  ‚M-^TM-^U‚M-^TM-^[‚M-^TM-^V‚M-^TM-^Z     ‚M-^TM-^L‚M-^TM-^D‚M-^TM-^D‚M-^TM-^P ‚M-^UM-^N ‚M-^TM-^O‚M-^TM-^E‚M-^TM-^E‚M-^TM-^S ‚M-^TM-^K ‚M-^VM-^M ‚M-^U≤‚M-^U±‚M-^U≤‚M-^U±‚M-^U≥‚M-^U≥‚M-^U≥$
+  ‚M-^UM-^Q‚M-^TM-^B‚M-^U± ‚M-^U≤‚M-^TM-^B‚M-^UM-^Q  ‚M-^TM-^B‚M-^UM-^Q   ‚M-^UM-^Q‚M-^TM-^B  ‚M-^TM-^B‚M-^TM-^B ‚M-^TM-^B ‚M-^TM-^B‚M-^TM-^B  ‚M-^TM-^B‚M-^UM-^Q ‚M-^TM-^C ‚M-^UM-^Q‚M-^TM-^B  ‚M-^TM-^C‚M-^TM-^B ‚M-^UΩ ‚M-^TM-^B‚M-^TM-^C  ‚M-^VM-^Q‚M-^VM-^Q‚M-^VM-^R‚M-^VM-^R‚M-^VM-^S‚M-^VM-^S‚M-^VM-^H‚M-^VM-^H ‚M-^TM-^J  ‚M-^TM-^F ‚M-^UM-^N ‚M-^UM-^O  ‚M-^TM-^G ‚M-^TM-^K ‚M-^VM-^N$
+  ‚M-^UM-^Q‚M-^TM-^T‚M-^TM-^@‚M-^U•‚M-^TM-^@‚M-^TM-^X‚M-^UM-^Q  ‚M-^TM-^B‚M-^UM-^Z‚M-^UM-^P‚M-^U§‚M-^UM-^P‚M-^UM-^]‚M-^TM-^B  ‚M-^TM-^B‚M-^UM-^X‚M-^UM-^P‚M-^U™‚M-^UM-^P‚M-^UM-^[‚M-^TM-^B  ‚M-^TM-^B‚M-^UM-^Y‚M-^TM-^@‚M-^UM-^@‚M-^TM-^@‚M-^UM-^\‚M-^TM-^B  ‚M-^TM-^C‚M-^TM-^T‚M-^TM-^@‚M-^UM-^B‚M-^TM-^@‚M-^TM-^X‚M-^TM-^C  ‚M-^VM-^Q‚M-^VM-^Q‚M-^VM-^R‚M-^VM-^R‚M-^VM-^S‚M-^VM-^S‚M-^VM-^H‚M-^VM-^H ‚M-^TM-^J  ‚M-^TM-^F ‚M-^UM-^N ‚M-^UM-^O  ‚M-^TM-^G ‚M-^TM-^K ‚M-^VM-^O$
+  ‚M-^UM-^Z‚M-^UM-^P‚M-^UM-^P‚M-^U©‚M-^UM-^P‚M-^UM-^P‚M-^UM-^]  ‚M-^TM-^T‚M-^TM-^@‚M-^TM-^@‚M-^T¥‚M-^TM-^@‚M-^TM-^@‚M-^TM-^X  ‚M-^U∞‚M-^TM-^@‚M-^TM-^@‚M-^T¥‚M-^TM-^@‚M-^TM-^@‚M-^UØ  ‚M-^U∞‚M-^TM-^@‚M-^TM-^@‚M-^T¥‚M-^TM-^@‚M-^TM-^@‚M-^UØ  ‚M-^TM-^W‚M-^TM-^A‚M-^TM-^A‚M-^Tª‚M-^TM-^A‚M-^TM-^A‚M-^TM-^[           ‚M-^TM-^T‚M-^UM-^L‚M-^UM-^L‚M-^TM-^X ‚M-^UM-^N ‚M-^TM-^W‚M-^UM-^M‚M-^UM-^M‚M-^TM-^[ ‚M-^TM-^K  ‚M-^VM-^A‚M-^VM-^B‚M-^VM-^C‚M-^VM-^D‚M-^VM-^E‚M-^VM-^F‚M-^VM-^G‚M-^VM-^H$

@@ -1,0 +1,7 @@
+txt/text_1.txt:2:cat
+txt/text_1.txt:5:cat
+txt/text_2.txt:6:cat
+txt/text_2.txt:10:cat
+txt/text_2.txt:12:cat
+txt/text_2.txt:18:cat
+txt/text_2.txt:19:cat

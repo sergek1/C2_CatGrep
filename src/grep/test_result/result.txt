@@ -1,0 +1,38 @@
+_____________FAIL___________
+|x|  != |e|
+count = *2*
+grep/test_grep/out7.txt
+
+
+t/text_1.txt:textbook
+txt/text_1.txt:textbook
+txt/text_1.txt:textbook
+txt/text_1.txt:textbook
+txt/text_2.txt:textbook
+txt/text_2.txt:textbook
+txt/text_2.txt:textbook
+ÿ
+
+_____________FAIL___________
+|x|  != |e|
+count = *2*
+grep/test_grep/out21.txt
+
+
+t/text_1.txt:textbook
+txt/text_1.txt:textbook
+txt/text_1.txt:TEXTBOOK
+txt/text_1.txt:textbook
+txt/text_1.txt:TEXTBOOK
+txt/text_1.txt:TEXTBOOK
+txt/text_1.txt:textbook
+txt/text_1.txt:TEXTBOOK
+txt/text_2.txt:textbook
+txt/text_2.txt:TEXTBOOK
+txt/text_2.txt:textbook
+txt/text_2.txt:TEXTBOOK
+txt/text_2.txt:TEXTBOOK
+txt/text_2.txt:textbook
+ÿ
+
+ERROR TEST : 2

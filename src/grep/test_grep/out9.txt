@@ -1,0 +1,7 @@
+txt/text_1.txt:and their applications. It assumes no prior knowledge of statistics or probability theory, but does require calculus. Most
+txt/text_1.txt:various disciplines who want to obtain a sound TEXTBOOK background in mathematical statistics and applications. It is our aim to
+txt/text_2.txt:Statistics is an integral part of the cat quantitative approach to knowledge. The field of statistics is concerned with the scientific
+txt/text_2.txt:information and knowledge. Statistical concepts enable cat us to solve problems in a diversity of contexts, add substance to
+txt/text_2.txt:decisions, and reduce guesswork. The discipline textbook of statistics stemmed from the need to place cat knowledge management on a
+txt/text_2.txt:the form cat of tables and charts. In order to place CAT statistical textbook knowledge on a systematic evidence base, we require a study of
+txt/text_2.txt:the laws of CAT probability. In mathematical TEXTBOOK statistics we create a probabilistic model cat and view the data as a set of random

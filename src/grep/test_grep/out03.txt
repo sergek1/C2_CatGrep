@@ -1,0 +1,6 @@
+This textbook provides a calculus-based coverage of statistics textbook and introduces students to methods of theoretical statistics
+books at this level are written with elaborate coverage of probability. textbook This requires teaching one semester of probability and
+various disciplines who want to obtain a sound TEXTBOOK background in mathematical statistics and applications. It is our aim to
+applied subject, we offer many applied examples and textbook relevant exercises from different areas. Knowledge of using computers for data analysis is desirable.
+Эта фигура должна разворачиваться в КАКОЙ TEXTBOOK зависимости от того, какой символ был введен. Например, TEXTBOOK представленная выше фигура должна быть получена в
+строкой: один - textbook для манипуляции КАКОЙ пробелами, второй - для печати букв в порядке TEXTBOOK какой возрастания и еще одни - для какой печати букв в порядке убывания.
